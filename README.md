@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Financial Document Intelligence System
 
 A four-component Python project for extracting financial-document data, retrieving policy information, analysing vendor-payment compliance, and exposing the workflow through an API.
@@ -95,3 +96,6 @@ docker compose up --build
 ```
 
 The API is available at `http://127.0.0.1:8000`, and Docker reports the service healthy after `/health` returns a successful response. The Compose service reads runtime configuration from `.env`; keep secrets in that file and do not add them to the image.
+=======
+# Financial-Document-Intelligence-Platform
+>>>>>>> 8993b6f8b8c1a43209e3634c4d8396d09c9adc40
