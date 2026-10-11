@@ -1,0 +1,500 @@
+{"text": "NEFT/ICIC872246/SHARMA RAJ TRADING PVT LTD/INV-2024-9935/AMT 194,893/DATE 09/04/2024", "entities": [[16, 42, "ORG"], [61, 68, "AMOUNT"], [74, 84, "DATE"], [43, 56, "REF"], [0, 4, "METHOD"]]}
+{"text": "01/02/2024 CHEQUE GLOBAL TECH SOLUTIONS PO-2024-1434 INR 8,831", "entities": [[18, 39, "ORG"], [57, 62, "AMOUNT"], [0, 10, "DATE"], [40, 52, "REF"], [11, 17, "METHOD"]]}
+{"text": "CHEQUE GLOBAL TECH SOLUTIONS REF-2025-7924 58,287 15/10/2025", "entities": [[7, 28, "ORG"], [43, 49, "AMOUNT"], [50, 60, "DATE"], [29, 42, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS TATA SERVICES INV-2024-6881 56,943 25/06/2024", "entities": [[5, 18, "ORG"], [33, 39, "AMOUNT"], [40, 50, "DATE"], [19, 32, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE MAHINDRA LOGISTICS RTGS-2025-2291 212,083 02/12/2025", "entities": [[7, 25, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [26, 40, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE/HDFC793384/SUNRISE ENTERPRISES/REF-2024-5741/AMT 151,849/DATE 07/12/2024", "entities": [[18, 37, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [38, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS ABC INDUSTRIES LTD REF-2026-7065 100,147 09/08/2026", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "23/11/2026 RTGS PRIME AUTO PARTS TXN-2026-3803 INR 70,486", "entities": [[16, 32, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [33, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS/KKBK330283/KUMAR ELECTRONICS/TXN-2026-6313/AMT 99,971/DATE 09/11/2026", "entities": [[16, 33, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [34, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "11/07/2025 RTGS SHARMA RAJ TRADING PVT LTD PO-2025-6155 INR 211,537", "entities": [[16, 42, "ORG"], [60, 67, "AMOUNT"], [0, 10, "DATE"], [43, 55, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI GLOBAL TECH SOLUTIONS REF-2024-9830 232,414 21/08/2024", "entities": [[4, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE/ICIC245051/GLOBAL TECH SOLUTIONS/PO-2025-9085/AMT 235,858/DATE 19/07/2025", "entities": [[18, 39, "ORG"], [57, 64, "AMOUNT"], [70, 80, "DATE"], [40, 52, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via NEFT to ABC INDUSTRIES LTD, reference INV-2026-7304, amount INR 40,566, date 21/03/2026", "entities": [[20, 38, "ORG"], [76, 82, "AMOUNT"], [89, 99, "DATE"], [50, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE KUMAR ELECTRONICS INV-2024-9797 139,204 09/09/2024", "entities": [[7, 24, "ORG"], [39, 46, "AMOUNT"], [47, 57, "DATE"], [25, 38, "REF"], [0, 6, "METHOD"]]}
+{"text": "14/03/2025 IMPS ABC INDUSTRIES LTD TXN-2025-5315 INR 77,439", "entities": [[16, 34, "ORG"], [53, 59, "AMOUNT"], [0, 10, "DATE"], [35, 48, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE ABC INDUSTRIES LTD REF-2026-3504 228,701 21/05/2026", "entities": [[7, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS GREENFIELD SUPPLIERS INV-2026-2832 204,612 17/01/2026", "entities": [[5, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "08/10/2024 IMPS RELIANCE RETAIL RTGS-2024-2133 INR 15,684", "entities": [[16, 31, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "18/03/2025 RTGS PRIME AUTO PARTS RTGS-2025-4470 INR 125,092", "entities": [[16, 32, "ORG"], [52, 59, "AMOUNT"], [0, 10, "DATE"], [33, 47, "REF"], [11, 15, "METHOD"]]}
+{"text": "21/06/2025 IMPS GLOBAL TECH SOLUTIONS INV-2025-5061 INR 176,578", "entities": [[16, 37, "ORG"], [56, 63, "AMOUNT"], [0, 10, "DATE"], [38, 51, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT/KKBK330914/SUNRISE ENTERPRISES/INV-2024-2163/AMT 6,014/DATE 19/09/2024", "entities": [[16, 35, "ORG"], [54, 59, "AMOUNT"], [65, 75, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "02/06/2024 RTGS ABC INDUSTRIES LTD NEFT-2024-8953 INR 237,850", "entities": [[16, 34, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "19/10/2025 CHEQUE TATA SERVICES RTGS-2025-7669 INR 190,122", "entities": [[18, 31, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 17, "METHOD"]]}
+{"text": "NEFT/AXIS589710/ABC INDUSTRIES LTD/TXN-2025-1887/AMT 173,248/DATE 14/06/2025", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "11/02/2024 NEFT GLOBAL TECH SOLUTIONS PO-2024-8350 INR 191,396", "entities": [[16, 37, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [38, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI/AXIS947272/TATA SERVICES/PO-2024-2604/AMT 73,518/DATE 15/04/2024", "entities": [[15, 28, "ORG"], [46, 52, "AMOUNT"], [58, 68, "DATE"], [29, 41, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via CHEQUE to SHARMA RAJ TRADING PVT LTD, reference RTGS-2024-4502, amount INR 24,948, date 25/04/2024", "entities": [[22, 48, "ORG"], [87, 93, "AMOUNT"], [100, 110, "DATE"], [60, 74, "REF"], [12, 18, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference RTGS-2025-5673, amount INR 99,845, date 01/07/2025", "entities": [[20, 33, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/SBIN328275/PRIME AUTO PARTS/INV-2024-9883/AMT 188,826/DATE 16/03/2024", "entities": [[18, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS/BARB656926/SHARMA RAJ TRADING PVT LTD/REF-2026-1931/AMT 13,644/DATE 19/08/2026", "entities": [[16, 42, "ORG"], [61, 67, "AMOUNT"], [73, 83, "DATE"], [43, 56, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/AXIS225710/ABC INDUSTRIES LTD/PO-2024-5033/AMT 156,484/DATE 03/11/2024", "entities": [[16, 34, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [35, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE ABC INDUSTRIES LTD NEFT-2026-4346 110,397 22/10/2026", "entities": [[7, 25, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [26, 40, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS/SBIN579434/MAHINDRA LOGISTICS/NEFT-2026-2188/AMT 104,252/DATE 05/11/2026", "entities": [[16, 34, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [35, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI NATIONAL DISTRIBUTORS NEFT-2026-3170 148,085 04/02/2026", "entities": [[4, 25, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [26, 40, "REF"], [0, 3, "METHOD"]]}
+{"text": "NEFT/BARB669605/RELIANCE RETAIL/TXN-2025-5956/AMT 97,369/DATE 10/03/2025", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [62, 72, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE MAHINDRA LOGISTICS INV-2024-3546 244,754 22/02/2024", "entities": [[7, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via IMPS to NATIONAL DISTRIBUTORS, reference NEFT-2024-9280, amount INR 55,715, date 23/06/2024", "entities": [[20, 41, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS SHARMA RAJ TRADING PVT LTD NEFT-2025-3143 24,695 21/07/2025", "entities": [[5, 31, "ORG"], [47, 53, "AMOUNT"], [54, 64, "DATE"], [32, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "18/12/2025 RTGS ORBITAL SYSTEMS INV-2025-2232 INR 116,324", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE SHARMA RAJ TRADING PVT LTD REF-2026-1685 219,284 12/10/2026", "entities": [[7, 33, "ORG"], [48, 55, "AMOUNT"], [56, 66, "DATE"], [34, 47, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via IMPS to SHARMA RAJ TRADING PVT LTD, reference INV-2026-6794, amount INR 236,147, date 12/04/2026", "entities": [[20, 46, "ORG"], [84, 91, "AMOUNT"], [98, 108, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via CHEQUE to ORBITAL SYSTEMS, reference REF-2024-6442, amount INR 41,015, date 08/03/2024", "entities": [[22, 37, "ORG"], [75, 81, "AMOUNT"], [88, 98, "DATE"], [49, 62, "REF"], [12, 18, "METHOD"]]}
+{"text": "26/12/2024 RTGS MAHINDRA LOGISTICS RTGS-2024-4644 INR 42,232", "entities": [[16, 34, "ORG"], [54, 60, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI SUNRISE ENTERPRISES REF-2024-7528 80,503 27/04/2024", "entities": [[4, 23, "ORG"], [38, 44, "AMOUNT"], [45, 55, "DATE"], [24, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "IMPS ABC INDUSTRIES LTD TXN-2026-9785 203,222 09/06/2026", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT ABC INDUSTRIES LTD INV-2026-8119 230,410 09/03/2026", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to GLOBAL TECH SOLUTIONS, reference NEFT-2025-1727, amount INR 159,414, date 17/02/2025", "entities": [[20, 41, "ORG"], [80, 87, "AMOUNT"], [94, 104, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT GREENFIELD SUPPLIERS TXN-2026-4228 243,133 26/09/2026", "entities": [[5, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD INV-2026-5920 249,241 22/06/2026", "entities": [[4, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 3, "METHOD"]]}
+{"text": "23/05/2026 UPI SUNRISE ENTERPRISES RTGS-2026-7211 INR 105,986", "entities": [[15, 34, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 14, "METHOD"]]}
+{"text": "CHEQUE NATIONAL DISTRIBUTORS REF-2024-8043 79,392 13/09/2024", "entities": [[7, 28, "ORG"], [43, 49, "AMOUNT"], [50, 60, "DATE"], [29, 42, "REF"], [0, 6, "METHOD"]]}
+{"text": "UPI/AXIS932291/KUMAR ELECTRONICS/TXN-2026-3780/AMT 116,409/DATE 22/04/2026", "entities": [[15, 32, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [33, 46, "REF"], [0, 3, "METHOD"]]}
+{"text": "21/10/2025 IMPS GREENFIELD SUPPLIERS REF-2025-6085 INR 174,525", "entities": [[16, 36, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [37, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference INV-2025-8461, amount INR 6,902, date 02/04/2025", "entities": [[20, 33, "ORG"], [71, 76, "AMOUNT"], [83, 93, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/AXIS355836/RELIANCE RETAIL/REF-2025-1090/AMT 188,810/DATE 23/07/2025", "entities": [[18, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 6, "METHOD"]]}
+{"text": "UPI/AXIS152657/RELIANCE RETAIL/PO-2026-5082/AMT 46,607/DATE 26/12/2026", "entities": [[15, 30, "ORG"], [48, 54, "AMOUNT"], [60, 70, "DATE"], [31, 43, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via UPI to TATA SERVICES, reference NEFT-2026-8251, amount INR 210,586, date 15/11/2026", "entities": [[19, 32, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [44, 58, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via CHEQUE to KUMAR ELECTRONICS, reference REF-2025-5543, amount INR 235,697, date 06/12/2025", "entities": [[22, 39, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [51, 64, "REF"], [12, 18, "METHOD"]]}
+{"text": "RTGS/ICIC384913/MAHINDRA LOGISTICS/NEFT-2025-6238/AMT 115,809/DATE 03/12/2025", "entities": [[16, 34, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [35, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference INV-2024-7797, amount INR 61,123, date 13/12/2024", "entities": [[20, 33, "ORG"], [71, 77, "AMOUNT"], [84, 94, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to GREENFIELD SUPPLIERS, reference RTGS-2024-1320, amount INR 122,639, date 14/01/2024", "entities": [[20, 40, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "12/05/2025 UPI SHARMA RAJ TRADING PVT LTD RTGS-2025-9818 INR 247,634", "entities": [[15, 41, "ORG"], [61, 68, "AMOUNT"], [0, 10, "DATE"], [42, 56, "REF"], [11, 14, "METHOD"]]}
+{"text": "14/08/2024 UPI RELIANCE RETAIL TXN-2024-7624 INR 72,048", "entities": [[15, 30, "ORG"], [49, 55, "AMOUNT"], [0, 10, "DATE"], [31, 44, "REF"], [11, 14, "METHOD"]]}
+{"text": "UPI/KKBK691807/TATA SERVICES/TXN-2025-1444/AMT 163,620/DATE 18/01/2025", "entities": [[15, 28, "ORG"], [47, 54, "AMOUNT"], [60, 70, "DATE"], [29, 42, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via UPI to TATA SERVICES, reference NEFT-2024-4467, amount INR 227,739, date 15/03/2024", "entities": [[19, 32, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [44, 58, "REF"], [12, 15, "METHOD"]]}
+{"text": "IMPS/SBIN975467/SUNRISE ENTERPRISES/INV-2025-8705/AMT 200,051/DATE 13/05/2025", "entities": [[16, 35, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "08/11/2024 CHEQUE SHARMA RAJ TRADING PVT LTD INV-2024-1508 INR 92,240", "entities": [[18, 44, "ORG"], [63, 69, "AMOUNT"], [0, 10, "DATE"], [45, 58, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference INV-2024-4571, amount INR 163,379, date 05/04/2024", "entities": [[20, 46, "ORG"], [84, 91, "AMOUNT"], [98, 108, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS/YESB220096/SUNRISE ENTERPRISES/REF-2026-6096/AMT 44,484/DATE 20/10/2026", "entities": [[16, 35, "ORG"], [54, 60, "AMOUNT"], [66, 76, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/AXIS515922/SHARMA RAJ TRADING PVT LTD/TXN-2026-4249/AMT 244,002/DATE 10/10/2026", "entities": [[18, 44, "ORG"], [63, 70, "AMOUNT"], [76, 86, "DATE"], [45, 58, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE/YESB910004/ORBITAL SYSTEMS/NEFT-2024-2983/AMT 218,229/DATE 21/04/2024", "entities": [[18, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via IMPS to GREENFIELD SUPPLIERS, reference NEFT-2024-1207, amount INR 112,796, date 22/06/2024", "entities": [[20, 40, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD RTGS-2025-3885 114,145 12/11/2025", "entities": [[4, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE GREENFIELD SUPPLIERS PO-2025-5397 203,567 16/08/2025", "entities": [[7, 27, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [28, 40, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS ABC INDUSTRIES LTD TXN-2025-7209 73,619 15/04/2025", "entities": [[5, 23, "ORG"], [38, 44, "AMOUNT"], [45, 55, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT KUMAR ELECTRONICS NEFT-2025-6576 223,572 11/03/2025", "entities": [[5, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via CHEQUE to ORBITAL SYSTEMS, reference INV-2024-4954, amount INR 231,214, date 09/09/2024", "entities": [[22, 37, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [49, 62, "REF"], [12, 18, "METHOD"]]}
+{"text": "UPI/YESB846420/GREENFIELD SUPPLIERS/RTGS-2025-8342/AMT 199,248/DATE 08/12/2025", "entities": [[15, 35, "ORG"], [55, 62, "AMOUNT"], [68, 78, "DATE"], [36, 50, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via NEFT to MAHINDRA LOGISTICS, reference PO-2024-7046, amount INR 58,590, date 13/12/2024", "entities": [[20, 38, "ORG"], [75, 81, "AMOUNT"], [88, 98, "DATE"], [50, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE GREENFIELD SUPPLIERS TXN-2026-8434 90,613 14/12/2026", "entities": [[7, 27, "ORG"], [42, 48, "AMOUNT"], [49, 59, "DATE"], [28, 41, "REF"], [0, 6, "METHOD"]]}
+{"text": "04/12/2024 IMPS MAHINDRA LOGISTICS TXN-2024-9779 INR 60,934", "entities": [[16, 34, "ORG"], [53, 59, "AMOUNT"], [0, 10, "DATE"], [35, 48, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS/KKBK897135/RELIANCE RETAIL/PO-2026-5636/AMT 194,120/DATE 16/05/2026", "entities": [[16, 31, "ORG"], [49, 56, "AMOUNT"], [62, 72, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS MAHINDRA LOGISTICS PO-2025-3073 60,133 12/03/2025", "entities": [[5, 23, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [24, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/YESB889359/SHARMA RAJ TRADING PVT LTD/RTGS-2024-2680/AMT 145,559/DATE 10/12/2024", "entities": [[16, 42, "ORG"], [62, 69, "AMOUNT"], [75, 85, "DATE"], [43, 57, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/ICIC153872/MAHINDRA LOGISTICS/NEFT-2025-8827/AMT 123,549/DATE 16/08/2025", "entities": [[18, 36, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [37, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT GLOBAL TECH SOLUTIONS REF-2026-3444 129,408 03/10/2026", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via NEFT to RELIANCE RETAIL, reference PO-2026-4697, amount INR 31,551, date 18/07/2026", "entities": [[20, 35, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [47, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/SBIN696251/KUMAR ELECTRONICS/PO-2025-1986/AMT 78,449/DATE 28/10/2025", "entities": [[15, 32, "ORG"], [50, 56, "AMOUNT"], [62, 72, "DATE"], [33, 45, "REF"], [0, 3, "METHOD"]]}
+{"text": "09/11/2024 RTGS PRIME AUTO PARTS REF-2024-2229 INR 55,818", "entities": [[16, 32, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [33, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT GLOBAL TECH SOLUTIONS REF-2025-5720 118,596 23/10/2025", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI/KKBK793300/ABC INDUSTRIES LTD/REF-2026-7965/AMT 180,693/DATE 08/05/2026", "entities": [[15, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE RELIANCE RETAIL REF-2024-6039 170,273 05/05/2024", "entities": [[7, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via UPI to ABC INDUSTRIES LTD, reference PO-2026-9847, amount INR 123,366, date 23/05/2026", "entities": [[19, 37, "ORG"], [74, 81, "AMOUNT"], [88, 98, "DATE"], [49, 61, "REF"], [12, 15, "METHOD"]]}
+{"text": "UPI/SBIN733039/ABC INDUSTRIES LTD/NEFT-2026-1423/AMT 157,271/DATE 02/07/2026", "entities": [[15, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS/HDFC901909/PRIME AUTO PARTS/TXN-2026-5415/AMT 219,641/DATE 28/10/2026", "entities": [[16, 32, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [33, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/ICIC713762/KUMAR ELECTRONICS/RTGS-2025-9056/AMT 136,543/DATE 21/08/2025", "entities": [[16, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to SUNRISE ENTERPRISES, reference REF-2026-6403, amount INR 107,546, date 11/06/2026", "entities": [[19, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 15, "METHOD"]]}
+{"text": "UPI MAHINDRA LOGISTICS NEFT-2024-5135 174,192 13/09/2024", "entities": [[4, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "NEFT/BARB668950/GLOBAL TECH SOLUTIONS/RTGS-2026-7770/AMT 227,231/DATE 17/01/2026", "entities": [[16, 37, "ORG"], [57, 64, "AMOUNT"], [70, 80, "DATE"], [38, 52, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS GREENFIELD SUPPLIERS INV-2026-4335 95,338 20/08/2026", "entities": [[5, 25, "ORG"], [40, 46, "AMOUNT"], [47, 57, "DATE"], [26, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "10/08/2026 CHEQUE TATA SERVICES INV-2026-4920 INR 243,683", "entities": [[18, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 17, "METHOD"]]}
+{"text": "IMPS/ICIC982277/GREENFIELD SUPPLIERS/INV-2024-8560/AMT 4,084/DATE 18/07/2024", "entities": [[16, 36, "ORG"], [55, 60, "AMOUNT"], [66, 76, "DATE"], [37, 50, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to KUMAR ELECTRONICS, reference RTGS-2026-8905, amount INR 244,989, date 23/05/2026", "entities": [[20, 37, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [49, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS/KKBK632929/KUMAR ELECTRONICS/TXN-2024-3236/AMT 145,010/DATE 05/07/2024", "entities": [[16, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to GLOBAL TECH SOLUTIONS, reference NEFT-2025-5891, amount INR 89,596, date 26/09/2025", "entities": [[20, 41, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to KUMAR ELECTRONICS, reference PO-2025-7180, amount INR 141,685, date 16/06/2025", "entities": [[20, 37, "ORG"], [74, 81, "AMOUNT"], [88, 98, "DATE"], [49, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS RELIANCE RETAIL RTGS-2025-1715 183,345 08/10/2025", "entities": [[5, 20, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [21, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to ORBITAL SYSTEMS, reference TXN-2025-3492, amount INR 239,950, date 26/07/2025", "entities": [[19, 34, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [46, 59, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference RTGS-2024-2633, amount INR 132,172, date 19/06/2024", "entities": [[20, 33, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to ORBITAL SYSTEMS, reference NEFT-2024-6546, amount INR 38,289, date 14/11/2024", "entities": [[20, 35, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [47, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT/SBIN757246/SUNRISE ENTERPRISES/TXN-2025-8994/AMT 223,936/DATE 22/09/2025", "entities": [[16, 35, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/ICIC883041/ABC INDUSTRIES LTD/INV-2025-8110/AMT 62,043/DATE 21/11/2025", "entities": [[18, 36, "ORG"], [55, 61, "AMOUNT"], [67, 77, "DATE"], [37, 50, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT KUMAR ELECTRONICS INV-2024-5806 44,111 23/05/2024", "entities": [[5, 22, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [23, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "08/09/2025 IMPS GLOBAL TECH SOLUTIONS REF-2025-3785 INR 38,660", "entities": [[16, 37, "ORG"], [56, 62, "AMOUNT"], [0, 10, "DATE"], [38, 51, "REF"], [11, 15, "METHOD"]]}
+{"text": "13/10/2026 NEFT NATIONAL DISTRIBUTORS PO-2026-3344 INR 228,785", "entities": [[16, 37, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [38, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "15/05/2026 UPI PRIME AUTO PARTS RTGS-2026-5712 INR 67,078", "entities": [[15, 31, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via NEFT to KUMAR ELECTRONICS, reference TXN-2025-5097, amount INR 248,287, date 12/10/2025", "entities": [[20, 37, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS RELIANCE RETAIL PO-2024-6881 101,345 28/08/2024", "entities": [[5, 20, "ORG"], [34, 41, "AMOUNT"], [42, 52, "DATE"], [21, 33, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to SHARMA RAJ TRADING PVT LTD, reference TXN-2025-1803, amount INR 218,089, date 22/07/2025", "entities": [[20, 46, "ORG"], [84, 91, "AMOUNT"], [98, 108, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "26/06/2024 IMPS RELIANCE RETAIL PO-2024-5106 INR 159,638", "entities": [[16, 31, "ORG"], [49, 56, "AMOUNT"], [0, 10, "DATE"], [32, 44, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT/HDFC707727/PRIME AUTO PARTS/NEFT-2025-3153/AMT 169,934/DATE 02/05/2025", "entities": [[16, 32, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [33, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS SUNRISE ENTERPRISES PO-2024-6994 196,447 14/03/2024", "entities": [[5, 24, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [25, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/YESB455168/MAHINDRA LOGISTICS/INV-2025-8673/AMT 240,112/DATE 27/08/2025", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/AXIS986827/RELIANCE RETAIL/PO-2026-6992/AMT 225,980/DATE 22/12/2026", "entities": [[16, 31, "ORG"], [49, 56, "AMOUNT"], [62, 72, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to SHARMA RAJ TRADING PVT LTD, reference TXN-2025-5295, amount INR 69,826, date 18/02/2025", "entities": [[19, 45, "ORG"], [83, 89, "AMOUNT"], [96, 106, "DATE"], [57, 70, "REF"], [12, 15, "METHOD"]]}
+{"text": "IMPS/KKBK688678/ABC INDUSTRIES LTD/NEFT-2024-4626/AMT 177,404/DATE 08/08/2024", "entities": [[16, 34, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [35, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to ORBITAL SYSTEMS, reference INV-2024-5986, amount INR 79,717, date 21/07/2024", "entities": [[19, 34, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [46, 59, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via NEFT to ABC INDUSTRIES LTD, reference TXN-2025-9850, amount INR 62,051, date 18/03/2025", "entities": [[20, 38, "ORG"], [76, 82, "AMOUNT"], [89, 99, "DATE"], [50, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE ORBITAL SYSTEMS RTGS-2026-7686 190,973 05/07/2026", "entities": [[7, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT ORBITAL SYSTEMS NEFT-2025-2627 97,632 07/08/2025", "entities": [[5, 20, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [21, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "02/07/2025 CHEQUE PRIME AUTO PARTS RTGS-2025-2501 INR 94,524", "entities": [[18, 34, "ORG"], [54, 60, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 17, "METHOD"]]}
+{"text": "CHEQUE/ICIC925206/SHARMA RAJ TRADING PVT LTD/PO-2024-4362/AMT 13,758/DATE 26/06/2024", "entities": [[18, 44, "ORG"], [62, 68, "AMOUNT"], [74, 84, "DATE"], [45, 57, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE RELIANCE RETAIL PO-2025-1046 154,216 07/04/2025", "entities": [[7, 22, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [23, 35, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS TATA SERVICES REF-2024-1243 142,114 09/03/2024", "entities": [[5, 18, "ORG"], [33, 40, "AMOUNT"], [41, 51, "DATE"], [19, 32, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/HDFC232915/NATIONAL DISTRIBUTORS/TXN-2025-7897/AMT 85,374/DATE 01/03/2025", "entities": [[16, 37, "ORG"], [56, 62, "AMOUNT"], [68, 78, "DATE"], [38, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "25/06/2026 NEFT KUMAR ELECTRONICS RTGS-2026-9254 INR 118,012", "entities": [[16, 33, "ORG"], [53, 60, "AMOUNT"], [0, 10, "DATE"], [34, 48, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE/SBIN580292/SHARMA RAJ TRADING PVT LTD/TXN-2026-1510/AMT 191,142/DATE 26/11/2026", "entities": [[18, 44, "ORG"], [63, 70, "AMOUNT"], [76, 86, "DATE"], [45, 58, "REF"], [0, 6, "METHOD"]]}
+{"text": "UPI GLOBAL TECH SOLUTIONS INV-2025-2323 112,245 22/02/2025", "entities": [[4, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via CHEQUE to TATA SERVICES, reference PO-2026-6327, amount INR 17,718, date 05/05/2026", "entities": [[22, 35, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [47, 59, "REF"], [12, 18, "METHOD"]]}
+{"text": "15/09/2026 CHEQUE GREENFIELD SUPPLIERS TXN-2026-2874 INR 77,805", "entities": [[18, 38, "ORG"], [57, 63, "AMOUNT"], [0, 10, "DATE"], [39, 52, "REF"], [11, 17, "METHOD"]]}
+{"text": "UPI/BARB575528/KUMAR ELECTRONICS/RTGS-2025-7815/AMT 233,307/DATE 08/07/2025", "entities": [[15, 32, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [33, 47, "REF"], [0, 3, "METHOD"]]}
+{"text": "IMPS/ICIC820184/GLOBAL TECH SOLUTIONS/RTGS-2025-2099/AMT 82,426/DATE 22/05/2025", "entities": [[16, 37, "ORG"], [57, 63, "AMOUNT"], [69, 79, "DATE"], [38, 52, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT ABC INDUSTRIES LTD REF-2026-1982 113,713 04/12/2026", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT GLOBAL TECH SOLUTIONS INV-2025-5712 93,193 28/11/2025", "entities": [[5, 26, "ORG"], [41, 47, "AMOUNT"], [48, 58, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS ABC INDUSTRIES LTD REF-2024-2773 151,997 17/04/2024", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE SUNRISE ENTERPRISES RTGS-2026-1430 30,616 25/05/2026", "entities": [[7, 26, "ORG"], [42, 48, "AMOUNT"], [49, 59, "DATE"], [27, 41, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference REF-2025-3347, amount INR 72,136, date 23/05/2025", "entities": [[20, 33, "ORG"], [71, 77, "AMOUNT"], [84, 94, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference REF-2024-7163, amount INR 194,740, date 21/01/2024", "entities": [[20, 33, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/SBIN914571/SUNRISE ENTERPRISES/PO-2026-2391/AMT 41,763/DATE 12/05/2026", "entities": [[15, 34, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [35, 47, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference RTGS-2026-7947, amount INR 198,270, date 20/01/2026", "entities": [[20, 33, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE KUMAR ELECTRONICS RTGS-2026-2816 109,075 09/04/2026", "entities": [[7, 24, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [25, 39, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE/ICIC514463/KUMAR ELECTRONICS/PO-2024-1897/AMT 138,632/DATE 22/05/2024", "entities": [[18, 35, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [36, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via RTGS to MAHINDRA LOGISTICS, reference INV-2025-1126, amount INR 248,311, date 07/03/2025", "entities": [[20, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/ICIC624563/TATA SERVICES/PO-2026-6802/AMT 34,365/DATE 13/09/2026", "entities": [[15, 28, "ORG"], [46, 52, "AMOUNT"], [58, 68, "DATE"], [29, 41, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via UPI to ORBITAL SYSTEMS, reference PO-2025-8033, amount INR 11,589, date 14/01/2025", "entities": [[19, 34, "ORG"], [71, 77, "AMOUNT"], [84, 94, "DATE"], [46, 58, "REF"], [12, 15, "METHOD"]]}
+{"text": "UPI MAHINDRA LOGISTICS PO-2025-8538 30,692 13/01/2025", "entities": [[4, 22, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [23, 35, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via NEFT to GLOBAL TECH SOLUTIONS, reference PO-2025-2288, amount INR 221,876, date 04/04/2025", "entities": [[20, 41, "ORG"], [78, 85, "AMOUNT"], [92, 102, "DATE"], [53, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "08/06/2024 IMPS ORBITAL SYSTEMS TXN-2024-2868 INR 89,501", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "27/11/2024 IMPS SUNRISE ENTERPRISES REF-2024-5193 INR 191,178", "entities": [[16, 35, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [36, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via RTGS to NATIONAL DISTRIBUTORS, reference TXN-2024-9095, amount INR 40,573, date 25/11/2024", "entities": [[20, 41, "ORG"], [79, 85, "AMOUNT"], [92, 102, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "22/10/2026 CHEQUE NATIONAL DISTRIBUTORS NEFT-2026-6179 INR 118,177", "entities": [[18, 39, "ORG"], [59, 66, "AMOUNT"], [0, 10, "DATE"], [40, 54, "REF"], [11, 17, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD PO-2025-1920 123,424 15/11/2025", "entities": [[4, 22, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [23, 35, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE/HDFC486649/ABC INDUSTRIES LTD/NEFT-2024-2257/AMT 81,871/DATE 15/08/2024", "entities": [[18, 36, "ORG"], [56, 62, "AMOUNT"], [68, 78, "DATE"], [37, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via CHEQUE to NATIONAL DISTRIBUTORS, reference TXN-2026-1672, amount INR 133,424, date 13/08/2026", "entities": [[22, 43, "ORG"], [81, 88, "AMOUNT"], [95, 105, "DATE"], [55, 68, "REF"], [12, 18, "METHOD"]]}
+{"text": "CHEQUE/KKBK258189/PRIME AUTO PARTS/INV-2025-8381/AMT 49,845/DATE 11/10/2025", "entities": [[18, 34, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [35, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via IMPS to ORBITAL SYSTEMS, reference TXN-2024-8172, amount INR 22,606, date 17/11/2024", "entities": [[20, 35, "ORG"], [73, 79, "AMOUNT"], [86, 96, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/SBIN506235/GREENFIELD SUPPLIERS/RTGS-2025-6543/AMT 160,356/DATE 06/06/2025", "entities": [[18, 38, "ORG"], [58, 65, "AMOUNT"], [71, 81, "DATE"], [39, 53, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS ABC INDUSTRIES LTD NEFT-2026-3463 86,926 04/09/2026", "entities": [[5, 23, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [24, 38, "REF"], [0, 4, "METHOD"]]}
+{"text": "05/06/2025 NEFT NATIONAL DISTRIBUTORS TXN-2025-7421 INR 174,461", "entities": [[16, 37, "ORG"], [56, 63, "AMOUNT"], [0, 10, "DATE"], [38, 51, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE/AXIS774751/ORBITAL SYSTEMS/NEFT-2026-3093/AMT 246,391/DATE 03/05/2026", "entities": [[18, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "01/06/2025 UPI GREENFIELD SUPPLIERS NEFT-2025-8967 INR 95,351", "entities": [[15, 35, "ORG"], [55, 61, "AMOUNT"], [0, 10, "DATE"], [36, 50, "REF"], [11, 14, "METHOD"]]}
+{"text": "RTGS/KKBK908320/TATA SERVICES/PO-2024-9626/AMT 41,117/DATE 03/05/2024", "entities": [[16, 29, "ORG"], [47, 53, "AMOUNT"], [59, 69, "DATE"], [30, 42, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to NATIONAL DISTRIBUTORS, reference TXN-2024-3712, amount INR 34,853, date 20/07/2024", "entities": [[20, 41, "ORG"], [79, 85, "AMOUNT"], [92, 102, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "22/12/2024 NEFT GLOBAL TECH SOLUTIONS NEFT-2024-8355 INR 95,998", "entities": [[16, 37, "ORG"], [57, 63, "AMOUNT"], [0, 10, "DATE"], [38, 52, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via CHEQUE to RELIANCE RETAIL, reference PO-2024-8218, amount INR 81,625, date 26/08/2024", "entities": [[22, 37, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [49, 61, "REF"], [12, 18, "METHOD"]]}
+{"text": "IMPS GLOBAL TECH SOLUTIONS PO-2024-3267 132,333 17/07/2024", "entities": [[5, 26, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [27, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT PRIME AUTO PARTS PO-2026-3042 126,483 28/06/2026", "entities": [[5, 21, "ORG"], [35, 42, "AMOUNT"], [43, 53, "DATE"], [22, 34, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference INV-2024-4637, amount INR 72,010, date 15/09/2024", "entities": [[20, 33, "ORG"], [71, 77, "AMOUNT"], [84, 94, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS SHARMA RAJ TRADING PVT LTD RTGS-2026-2337 109,262 02/07/2026", "entities": [[5, 31, "ORG"], [47, 54, "AMOUNT"], [55, 65, "DATE"], [32, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/SBIN929822/SHARMA RAJ TRADING PVT LTD/REF-2026-3254/AMT 84,041/DATE 04/12/2026", "entities": [[16, 42, "ORG"], [61, 67, "AMOUNT"], [73, 83, "DATE"], [43, 56, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/AXIS570392/KUMAR ELECTRONICS/PO-2026-1086/AMT 182,971/DATE 27/03/2026", "entities": [[16, 33, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [34, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/YESB738457/MAHINDRA LOGISTICS/PO-2026-7934/AMT 57,032/DATE 27/03/2026", "entities": [[16, 34, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [35, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/AXIS769989/RELIANCE RETAIL/PO-2024-8489/AMT 79,444/DATE 04/01/2024", "entities": [[16, 31, "ORG"], [49, 55, "AMOUNT"], [61, 71, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT KUMAR ELECTRONICS REF-2026-3352 156,931 18/01/2026", "entities": [[5, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI SHARMA RAJ TRADING PVT LTD TXN-2026-2402 161,668 12/04/2026", "entities": [[4, 30, "ORG"], [45, 52, "AMOUNT"], [53, 63, "DATE"], [31, 44, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via NEFT to GREENFIELD SUPPLIERS, reference RTGS-2026-1713, amount INR 143,127, date 17/09/2026", "entities": [[20, 40, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS MAHINDRA LOGISTICS TXN-2024-2698 196,404 01/06/2024", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference TXN-2026-8612, amount INR 92,853, date 18/06/2026", "entities": [[20, 46, "ORG"], [84, 90, "AMOUNT"], [97, 107, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS/SBIN311383/TATA SERVICES/INV-2024-4268/AMT 17,041/DATE 23/08/2024", "entities": [[16, 29, "ORG"], [48, 54, "AMOUNT"], [60, 70, "DATE"], [30, 43, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS MAHINDRA LOGISTICS TXN-2025-4131 135,604 13/09/2025", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to SHARMA RAJ TRADING PVT LTD, reference NEFT-2025-8159, amount INR 227,463, date 21/06/2025", "entities": [[20, 46, "ORG"], [85, 92, "AMOUNT"], [99, 109, "DATE"], [58, 72, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/AXIS485191/GLOBAL TECH SOLUTIONS/PO-2026-5369/AMT 89,376/DATE 06/08/2026", "entities": [[15, 36, "ORG"], [54, 60, "AMOUNT"], [66, 76, "DATE"], [37, 49, "REF"], [0, 3, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD INV-2026-2311 113,381 20/03/2026", "entities": [[4, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via IMPS to MAHINDRA LOGISTICS, reference RTGS-2025-6759, amount INR 117,394, date 20/12/2025", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to ORBITAL SYSTEMS, reference INV-2025-2229, amount INR 228,575, date 12/10/2025", "entities": [[20, 35, "ORG"], [73, 80, "AMOUNT"], [87, 97, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS/HDFC249715/GREENFIELD SUPPLIERS/PO-2024-8179/AMT 210,502/DATE 24/11/2024", "entities": [[16, 36, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [37, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "25/11/2025 RTGS ABC INDUSTRIES LTD PO-2025-1530 INR 62,364", "entities": [[16, 34, "ORG"], [52, 58, "AMOUNT"], [0, 10, "DATE"], [35, 47, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI SUNRISE ENTERPRISES NEFT-2026-7521 98,021 15/02/2026", "entities": [[4, 23, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [24, 38, "REF"], [0, 3, "METHOD"]]}
+{"text": "IMPS RELIANCE RETAIL RTGS-2024-2929 30,239 01/12/2024", "entities": [[5, 20, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [21, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "07/10/2025 IMPS ORBITAL SYSTEMS REF-2025-3009 INR 117,487", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT/BARB815054/KUMAR ELECTRONICS/NEFT-2024-6692/AMT 45,760/DATE 23/08/2024", "entities": [[16, 33, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [34, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE GREENFIELD SUPPLIERS TXN-2026-3852 76,616 10/03/2026", "entities": [[7, 27, "ORG"], [42, 48, "AMOUNT"], [49, 59, "DATE"], [28, 41, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE RELIANCE RETAIL INV-2024-6912 32,314 07/03/2024", "entities": [[7, 22, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [23, 36, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via UPI to GREENFIELD SUPPLIERS, reference TXN-2024-8842, amount INR 34,518, date 20/02/2024", "entities": [[19, 39, "ORG"], [77, 83, "AMOUNT"], [90, 100, "DATE"], [51, 64, "REF"], [12, 15, "METHOD"]]}
+{"text": "UPI NATIONAL DISTRIBUTORS RTGS-2026-9476 19,833 05/06/2026", "entities": [[4, 25, "ORG"], [41, 47, "AMOUNT"], [48, 58, "DATE"], [26, 40, "REF"], [0, 3, "METHOD"]]}
+{"text": "19/03/2024 RTGS GREENFIELD SUPPLIERS INV-2024-3034 INR 168,218", "entities": [[16, 36, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [37, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "IMPS TATA SERVICES NEFT-2024-2292 42,958 11/12/2024", "entities": [[5, 18, "ORG"], [34, 40, "AMOUNT"], [41, 51, "DATE"], [19, 33, "REF"], [0, 4, "METHOD"]]}
+{"text": "09/03/2026 RTGS PRIME AUTO PARTS PO-2026-2530 INR 144,899", "entities": [[16, 32, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [33, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE/YESB734534/NATIONAL DISTRIBUTORS/NEFT-2026-1674/AMT 40,921/DATE 06/11/2026", "entities": [[18, 39, "ORG"], [59, 65, "AMOUNT"], [71, 81, "DATE"], [40, 54, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT/YESB321048/SHARMA RAJ TRADING PVT LTD/PO-2025-7825/AMT 249,155/DATE 21/10/2025", "entities": [[16, 42, "ORG"], [60, 67, "AMOUNT"], [73, 83, "DATE"], [43, 55, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI PRIME AUTO PARTS TXN-2025-7653 143,519 10/11/2025", "entities": [[4, 20, "ORG"], [35, 42, "AMOUNT"], [43, 53, "DATE"], [21, 34, "REF"], [0, 3, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD RTGS-2025-4342 181,015 02/03/2025", "entities": [[4, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE TATA SERVICES RTGS-2025-3142 82,441 28/12/2025", "entities": [[7, 20, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [21, 35, "REF"], [0, 6, "METHOD"]]}
+{"text": "11/04/2025 CHEQUE GREENFIELD SUPPLIERS RTGS-2025-5061 INR 28,335", "entities": [[18, 38, "ORG"], [58, 64, "AMOUNT"], [0, 10, "DATE"], [39, 53, "REF"], [11, 17, "METHOD"]]}
+{"text": "13/10/2025 NEFT SHARMA RAJ TRADING PVT LTD NEFT-2025-6123 INR 76,577", "entities": [[16, 42, "ORG"], [62, 68, "AMOUNT"], [0, 10, "DATE"], [43, 57, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via RTGS to KUMAR ELECTRONICS, reference INV-2025-7442, amount INR 135,432, date 15/08/2025", "entities": [[20, 37, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS RELIANCE RETAIL PO-2024-8710 153,420 12/01/2024", "entities": [[5, 20, "ORG"], [34, 41, "AMOUNT"], [42, 52, "DATE"], [21, 33, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE SHARMA RAJ TRADING PVT LTD NEFT-2024-7606 222,581 04/07/2024", "entities": [[7, 33, "ORG"], [49, 56, "AMOUNT"], [57, 67, "DATE"], [34, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via NEFT to GLOBAL TECH SOLUTIONS, reference NEFT-2024-2204, amount INR 13,910, date 19/09/2024", "entities": [[20, 41, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/YESB740725/KUMAR ELECTRONICS/INV-2026-3108/AMT 200,883/DATE 18/05/2026", "entities": [[18, 35, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [36, 49, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via UPI to SUNRISE ENTERPRISES, reference REF-2025-9341, amount INR 208,877, date 11/09/2025", "entities": [[19, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via CHEQUE to SHARMA RAJ TRADING PVT LTD, reference RTGS-2026-9508, amount INR 12,376, date 02/03/2026", "entities": [[22, 48, "ORG"], [87, 93, "AMOUNT"], [100, 110, "DATE"], [60, 74, "REF"], [12, 18, "METHOD"]]}
+{"text": "RTGS NATIONAL DISTRIBUTORS REF-2025-7438 234,629 17/03/2025", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via CHEQUE to SUNRISE ENTERPRISES, reference PO-2026-5911, amount INR 133,489, date 27/09/2026", "entities": [[22, 41, "ORG"], [78, 85, "AMOUNT"], [92, 102, "DATE"], [53, 65, "REF"], [12, 18, "METHOD"]]}
+{"text": "Payment via NEFT to SUNRISE ENTERPRISES, reference TXN-2025-1436, amount INR 87,332, date 22/02/2025", "entities": [[20, 39, "ORG"], [77, 83, "AMOUNT"], [90, 100, "DATE"], [51, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "25/10/2026 IMPS PRIME AUTO PARTS INV-2026-8871 INR 205,733", "entities": [[16, 32, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [33, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE/BARB813793/PRIME AUTO PARTS/REF-2024-1517/AMT 189,553/DATE 20/07/2024", "entities": [[18, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference REF-2024-7723, amount INR 116,115, date 11/07/2024", "entities": [[20, 46, "ORG"], [84, 91, "AMOUNT"], [98, 108, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to ORBITAL SYSTEMS, reference RTGS-2026-9609, amount INR 36,697, date 17/04/2026", "entities": [[20, 35, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [47, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to TATA SERVICES, reference TXN-2026-5331, amount INR 120,998, date 18/06/2026", "entities": [[20, 33, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to RELIANCE RETAIL, reference NEFT-2024-4396, amount INR 73,639, date 18/05/2024", "entities": [[20, 35, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [47, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to KUMAR ELECTRONICS, reference PO-2025-9899, amount INR 91,936, date 18/12/2025", "entities": [[20, 37, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [49, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI SUNRISE ENTERPRISES TXN-2025-2294 203,154 26/03/2025", "entities": [[4, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "UPI PRIME AUTO PARTS PO-2024-5442 67,725 24/08/2024", "entities": [[4, 20, "ORG"], [34, 40, "AMOUNT"], [41, 51, "DATE"], [21, 33, "REF"], [0, 3, "METHOD"]]}
+{"text": "24/10/2024 RTGS ABC INDUSTRIES LTD TXN-2024-9700 INR 161,896", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [0, 10, "DATE"], [35, 48, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS/AXIS205428/SHARMA RAJ TRADING PVT LTD/TXN-2026-3252/AMT 26,766/DATE 14/06/2026", "entities": [[16, 42, "ORG"], [61, 67, "AMOUNT"], [73, 83, "DATE"], [43, 56, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE TATA SERVICES NEFT-2025-6262 107,168 21/08/2025", "entities": [[7, 20, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [21, 35, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via NEFT to ABC INDUSTRIES LTD, reference INV-2026-3868, amount INR 171,496, date 19/04/2026", "entities": [[20, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS SHARMA RAJ TRADING PVT LTD INV-2024-1151 219,705 13/08/2024", "entities": [[5, 31, "ORG"], [46, 53, "AMOUNT"], [54, 64, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "11/05/2025 CHEQUE NATIONAL DISTRIBUTORS PO-2025-9092 INR 28,628", "entities": [[18, 39, "ORG"], [57, 63, "AMOUNT"], [0, 10, "DATE"], [40, 52, "REF"], [11, 17, "METHOD"]]}
+{"text": "07/02/2025 CHEQUE KUMAR ELECTRONICS RTGS-2025-5215 INR 72,022", "entities": [[18, 35, "ORG"], [55, 61, "AMOUNT"], [0, 10, "DATE"], [36, 50, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via NEFT to ORBITAL SYSTEMS, reference REF-2026-3875, amount INR 88,871, date 26/05/2026", "entities": [[20, 35, "ORG"], [73, 79, "AMOUNT"], [86, 96, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI GREENFIELD SUPPLIERS REF-2026-8822 86,464 03/07/2026", "entities": [[4, 24, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [25, 38, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS/BARB379963/SHARMA RAJ TRADING PVT LTD/NEFT-2025-5947/AMT 68,863/DATE 13/04/2025", "entities": [[16, 42, "ORG"], [62, 68, "AMOUNT"], [74, 84, "DATE"], [43, 57, "REF"], [0, 4, "METHOD"]]}
+{"text": "23/04/2024 IMPS PRIME AUTO PARTS RTGS-2024-6026 INR 94,754", "entities": [[16, 32, "ORG"], [52, 58, "AMOUNT"], [0, 10, "DATE"], [33, 47, "REF"], [11, 15, "METHOD"]]}
+{"text": "23/05/2026 UPI PRIME AUTO PARTS NEFT-2026-7021 INR 132,232", "entities": [[15, 31, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference RTGS-2026-9998, amount INR 125,852, date 05/08/2026", "entities": [[20, 33, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via CHEQUE to PRIME AUTO PARTS, reference INV-2026-9609, amount INR 216,927, date 07/04/2026", "entities": [[22, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 18, "METHOD"]]}
+{"text": "03/10/2024 CHEQUE ORBITAL SYSTEMS PO-2024-9281 INR 95,339", "entities": [[18, 33, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [34, 46, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via CHEQUE to GREENFIELD SUPPLIERS, reference TXN-2026-4365, amount INR 39,782, date 06/06/2026", "entities": [[22, 42, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [54, 67, "REF"], [12, 18, "METHOD"]]}
+{"text": "NEFT/ICIC638179/GREENFIELD SUPPLIERS/RTGS-2025-8484/AMT 117,280/DATE 26/01/2025", "entities": [[16, 36, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [37, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "26/05/2026 CHEQUE KUMAR ELECTRONICS NEFT-2026-1049 INR 176,862", "entities": [[18, 35, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [36, 50, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via CHEQUE to ABC INDUSTRIES LTD, reference INV-2026-2130, amount INR 12,372, date 14/06/2026", "entities": [[22, 40, "ORG"], [78, 84, "AMOUNT"], [91, 101, "DATE"], [52, 65, "REF"], [12, 18, "METHOD"]]}
+{"text": "Payment via NEFT to MAHINDRA LOGISTICS, reference RTGS-2026-7135, amount INR 107,682, date 06/03/2026", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/BARB665497/GLOBAL TECH SOLUTIONS/REF-2026-6697/AMT 98,973/DATE 03/11/2026", "entities": [[15, 36, "ORG"], [55, 61, "AMOUNT"], [67, 77, "DATE"], [37, 50, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS GREENFIELD SUPPLIERS INV-2026-1372 103,537 17/03/2026", "entities": [[5, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to PRIME AUTO PARTS, reference REF-2026-5055, amount INR 189,006, date 18/07/2026", "entities": [[19, 35, "ORG"], [73, 80, "AMOUNT"], [87, 97, "DATE"], [47, 60, "REF"], [12, 15, "METHOD"]]}
+{"text": "IMPS/HDFC948799/TATA SERVICES/TXN-2024-7868/AMT 72,759/DATE 07/12/2024", "entities": [[16, 29, "ORG"], [48, 54, "AMOUNT"], [60, 70, "DATE"], [30, 43, "REF"], [0, 4, "METHOD"]]}
+{"text": "04/10/2024 RTGS RELIANCE RETAIL TXN-2024-1797 INR 18,139", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT GLOBAL TECH SOLUTIONS INV-2024-3295 115,571 08/09/2024", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS ORBITAL SYSTEMS NEFT-2026-4881 151,523 11/10/2026", "entities": [[5, 20, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [21, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to PRIME AUTO PARTS, reference PO-2025-3869, amount INR 137,142, date 08/07/2025", "entities": [[20, 36, "ORG"], [73, 80, "AMOUNT"], [87, 97, "DATE"], [48, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via CHEQUE to KUMAR ELECTRONICS, reference PO-2026-6222, amount INR 12,790, date 12/11/2026", "entities": [[22, 39, "ORG"], [76, 82, "AMOUNT"], [89, 99, "DATE"], [51, 63, "REF"], [12, 18, "METHOD"]]}
+{"text": "13/03/2026 UPI TATA SERVICES REF-2026-5927 INR 79,113", "entities": [[15, 28, "ORG"], [47, 53, "AMOUNT"], [0, 10, "DATE"], [29, 42, "REF"], [11, 14, "METHOD"]]}
+{"text": "UPI SHARMA RAJ TRADING PVT LTD RTGS-2026-4978 147,926 14/07/2026", "entities": [[4, 30, "ORG"], [46, 53, "AMOUNT"], [54, 64, "DATE"], [31, 45, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS/HDFC661654/SUNRISE ENTERPRISES/TXN-2025-4120/AMT 170,030/DATE 03/08/2025", "entities": [[16, 35, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to GLOBAL TECH SOLUTIONS, reference REF-2024-4555, amount INR 177,099, date 20/10/2024", "entities": [[20, 41, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "01/04/2024 RTGS SUNRISE ENTERPRISES TXN-2024-8846 INR 79,978", "entities": [[16, 35, "ORG"], [54, 60, "AMOUNT"], [0, 10, "DATE"], [36, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via CHEQUE to ORBITAL SYSTEMS, reference NEFT-2026-7236, amount INR 54,111, date 13/04/2026", "entities": [[22, 37, "ORG"], [76, 82, "AMOUNT"], [89, 99, "DATE"], [49, 63, "REF"], [12, 18, "METHOD"]]}
+{"text": "Payment via CHEQUE to PRIME AUTO PARTS, reference RTGS-2025-2615, amount INR 94,677, date 10/05/2025", "entities": [[22, 38, "ORG"], [77, 83, "AMOUNT"], [90, 100, "DATE"], [50, 64, "REF"], [12, 18, "METHOD"]]}
+{"text": "IMPS/KKBK332022/RELIANCE RETAIL/TXN-2024-3390/AMT 97,678/DATE 11/07/2024", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [62, 72, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS GREENFIELD SUPPLIERS REF-2026-4214 245,541 19/10/2026", "entities": [[5, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS GLOBAL TECH SOLUTIONS TXN-2025-6530 149,866 27/04/2025", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "24/08/2025 UPI ORBITAL SYSTEMS NEFT-2025-3773 INR 168,716", "entities": [[15, 30, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [31, 45, "REF"], [11, 14, "METHOD"]]}
+{"text": "CHEQUE/KKBK135466/KUMAR ELECTRONICS/INV-2024-1794/AMT 48,747/DATE 18/11/2024", "entities": [[18, 35, "ORG"], [54, 60, "AMOUNT"], [66, 76, "DATE"], [36, 49, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via UPI to TATA SERVICES, reference INV-2024-4583, amount INR 221,368, date 21/04/2024", "entities": [[19, 32, "ORG"], [70, 77, "AMOUNT"], [84, 94, "DATE"], [44, 57, "REF"], [12, 15, "METHOD"]]}
+{"text": "IMPS/AXIS791309/SHARMA RAJ TRADING PVT LTD/RTGS-2026-1257/AMT 162,461/DATE 21/11/2026", "entities": [[16, 42, "ORG"], [62, 69, "AMOUNT"], [75, 85, "DATE"], [43, 57, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/YESB388086/GREENFIELD SUPPLIERS/PO-2026-5697/AMT 108,329/DATE 01/01/2026", "entities": [[18, 38, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [39, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "14/03/2024 CHEQUE ORBITAL SYSTEMS REF-2024-4948 INR 177,193", "entities": [[18, 33, "ORG"], [52, 59, "AMOUNT"], [0, 10, "DATE"], [34, 47, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via CHEQUE to GREENFIELD SUPPLIERS, reference INV-2025-7112, amount INR 66,669, date 27/06/2025", "entities": [[22, 42, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [54, 67, "REF"], [12, 18, "METHOD"]]}
+{"text": "UPI/YESB968286/NATIONAL DISTRIBUTORS/INV-2025-1519/AMT 64,255/DATE 23/04/2025", "entities": [[15, 36, "ORG"], [55, 61, "AMOUNT"], [67, 77, "DATE"], [37, 50, "REF"], [0, 3, "METHOD"]]}
+{"text": "UPI/YESB109909/GLOBAL TECH SOLUTIONS/TXN-2024-3807/AMT 99,372/DATE 18/08/2024", "entities": [[15, 36, "ORG"], [55, 61, "AMOUNT"], [67, 77, "DATE"], [37, 50, "REF"], [0, 3, "METHOD"]]}
+{"text": "26/06/2026 UPI GLOBAL TECH SOLUTIONS PO-2026-1697 INR 169,558", "entities": [[15, 36, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [37, 49, "REF"], [11, 14, "METHOD"]]}
+{"text": "RTGS/HDFC177959/ORBITAL SYSTEMS/TXN-2025-5593/AMT 233,167/DATE 19/08/2025", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [63, 73, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/BARB960556/SUNRISE ENTERPRISES/TXN-2024-7525/AMT 4,604/DATE 07/10/2024", "entities": [[16, 35, "ORG"], [54, 59, "AMOUNT"], [65, 75, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "08/10/2025 IMPS TATA SERVICES NEFT-2025-7288 INR 148,338", "entities": [[16, 29, "ORG"], [49, 56, "AMOUNT"], [0, 10, "DATE"], [30, 44, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via NEFT to GREENFIELD SUPPLIERS, reference INV-2024-6580, amount INR 195,916, date 12/01/2024", "entities": [[20, 40, "ORG"], [78, 85, "AMOUNT"], [92, 102, "DATE"], [52, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to SHARMA RAJ TRADING PVT LTD, reference PO-2025-7150, amount INR 166,731, date 09/08/2025", "entities": [[20, 46, "ORG"], [83, 90, "AMOUNT"], [97, 107, "DATE"], [58, 70, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS/BARB748665/PRIME AUTO PARTS/NEFT-2024-5037/AMT 154,083/DATE 22/07/2024", "entities": [[16, 32, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [33, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT MAHINDRA LOGISTICS RTGS-2026-6188 40,928 13/12/2026", "entities": [[5, 23, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [24, 38, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/BARB382870/ABC INDUSTRIES LTD/INV-2025-3170/AMT 1,861/DATE 10/08/2025", "entities": [[16, 34, "ORG"], [53, 58, "AMOUNT"], [64, 74, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS GLOBAL TECH SOLUTIONS INV-2026-2468 118,161 18/09/2026", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/HDFC406024/ABC INDUSTRIES LTD/RTGS-2025-7353/AMT 156,980/DATE 20/06/2025", "entities": [[18, 36, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [37, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE RELIANCE RETAIL REF-2026-5405 150,435 17/03/2026", "entities": [[7, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS/SBIN541557/KUMAR ELECTRONICS/NEFT-2025-8933/AMT 38,755/DATE 03/03/2025", "entities": [[16, 33, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [34, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to MAHINDRA LOGISTICS, reference PO-2026-4203, amount INR 248,022, date 08/12/2026", "entities": [[20, 38, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [50, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference RTGS-2025-6399, amount INR 80,364, date 01/07/2025", "entities": [[20, 33, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to GLOBAL TECH SOLUTIONS, reference NEFT-2026-4290, amount INR 214,272, date 27/11/2026", "entities": [[20, 41, "ORG"], [80, 87, "AMOUNT"], [94, 104, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS TATA SERVICES RTGS-2026-4971 104,896 11/05/2026", "entities": [[5, 18, "ORG"], [34, 41, "AMOUNT"], [42, 52, "DATE"], [19, 33, "REF"], [0, 4, "METHOD"]]}
+{"text": "26/07/2025 UPI MAHINDRA LOGISTICS REF-2025-9939 INR 214,539", "entities": [[15, 33, "ORG"], [52, 59, "AMOUNT"], [0, 10, "DATE"], [34, 47, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via CHEQUE to SHARMA RAJ TRADING PVT LTD, reference NEFT-2024-2133, amount INR 191,134, date 15/12/2024", "entities": [[22, 48, "ORG"], [87, 94, "AMOUNT"], [101, 111, "DATE"], [60, 74, "REF"], [12, 18, "METHOD"]]}
+{"text": "Payment via UPI to TATA SERVICES, reference TXN-2025-7932, amount INR 166,525, date 10/04/2025", "entities": [[19, 32, "ORG"], [70, 77, "AMOUNT"], [84, 94, "DATE"], [44, 57, "REF"], [12, 15, "METHOD"]]}
+{"text": "NEFT/KKBK631221/KUMAR ELECTRONICS/TXN-2025-7853/AMT 157,244/DATE 16/10/2025", "entities": [[16, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS ORBITAL SYSTEMS INV-2026-5067 235,250 26/09/2026", "entities": [[5, 20, "ORG"], [35, 42, "AMOUNT"], [43, 53, "DATE"], [21, 34, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to PRIME AUTO PARTS, reference RTGS-2026-6432, amount INR 161,109, date 02/10/2026", "entities": [[20, 36, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [48, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to SHARMA RAJ TRADING PVT LTD, reference PO-2026-4621, amount INR 26,349, date 09/04/2026", "entities": [[20, 46, "ORG"], [83, 89, "AMOUNT"], [96, 106, "DATE"], [58, 70, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS/YESB624776/GLOBAL TECH SOLUTIONS/REF-2026-6651/AMT 121,889/DATE 25/11/2026", "entities": [[16, 37, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [38, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD REF-2024-6707 77,945 14/02/2024", "entities": [[4, 22, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [23, 36, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via IMPS to KUMAR ELECTRONICS, reference INV-2025-8178, amount INR 206,091, date 07/09/2025", "entities": [[20, 37, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "02/12/2024 IMPS ABC INDUSTRIES LTD NEFT-2024-2791 INR 79,212", "entities": [[16, 34, "ORG"], [54, 60, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via RTGS to GREENFIELD SUPPLIERS, reference RTGS-2025-4798, amount INR 46,231, date 18/03/2025", "entities": [[20, 40, "ORG"], [79, 85, "AMOUNT"], [92, 102, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference PO-2025-4232, amount INR 168,397, date 22/07/2025", "entities": [[20, 33, "ORG"], [70, 77, "AMOUNT"], [84, 94, "DATE"], [45, 57, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/ICIC391865/GLOBAL TECH SOLUTIONS/TXN-2024-2025/AMT 102,430/DATE 01/12/2024", "entities": [[18, 39, "ORG"], [58, 65, "AMOUNT"], [71, 81, "DATE"], [40, 53, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE TATA SERVICES TXN-2025-9019 96,390 11/04/2025", "entities": [[7, 20, "ORG"], [35, 41, "AMOUNT"], [42, 52, "DATE"], [21, 34, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE GLOBAL TECH SOLUTIONS RTGS-2024-3826 160,750 13/10/2024", "entities": [[7, 28, "ORG"], [44, 51, "AMOUNT"], [52, 62, "DATE"], [29, 43, "REF"], [0, 6, "METHOD"]]}
+{"text": "22/03/2025 CHEQUE NATIONAL DISTRIBUTORS NEFT-2025-2916 INR 22,717", "entities": [[18, 39, "ORG"], [59, 65, "AMOUNT"], [0, 10, "DATE"], [40, 54, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via IMPS to ORBITAL SYSTEMS, reference PO-2025-7286, amount INR 37,556, date 17/07/2025", "entities": [[20, 35, "ORG"], [72, 78, "AMOUNT"], [85, 95, "DATE"], [47, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS KUMAR ELECTRONICS REF-2026-9022 167,092 18/12/2026", "entities": [[5, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "27/08/2026 RTGS TATA SERVICES INV-2026-8939 INR 82,965", "entities": [[16, 29, "ORG"], [48, 54, "AMOUNT"], [0, 10, "DATE"], [30, 43, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via RTGS to GLOBAL TECH SOLUTIONS, reference RTGS-2025-7809, amount INR 147,715, date 17/11/2025", "entities": [[20, 41, "ORG"], [80, 87, "AMOUNT"], [94, 104, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI TATA SERVICES NEFT-2024-4683 22,171 19/01/2024", "entities": [[4, 17, "ORG"], [33, 39, "AMOUNT"], [40, 50, "DATE"], [18, 32, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS KUMAR ELECTRONICS PO-2026-2871 148,781 24/08/2026", "entities": [[5, 22, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [23, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/AXIS672892/SUNRISE ENTERPRISES/REF-2026-7965/AMT 142,593/DATE 27/01/2026", "entities": [[18, 37, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [38, 51, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS/SBIN956401/MAHINDRA LOGISTICS/INV-2025-8193/AMT 229,826/DATE 02/08/2025", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "24/10/2026 RTGS RELIANCE RETAIL PO-2026-8015 INR 213,020", "entities": [[16, 31, "ORG"], [49, 56, "AMOUNT"], [0, 10, "DATE"], [32, 44, "REF"], [11, 15, "METHOD"]]}
+{"text": "07/04/2024 CHEQUE TATA SERVICES PO-2024-5605 INR 206,243", "entities": [[18, 31, "ORG"], [49, 56, "AMOUNT"], [0, 10, "DATE"], [32, 44, "REF"], [11, 17, "METHOD"]]}
+{"text": "10/10/2025 IMPS ORBITAL SYSTEMS TXN-2025-2560 INR 77,212", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI SHARMA RAJ TRADING PVT LTD REF-2024-3396 73,198 28/11/2024", "entities": [[4, 30, "ORG"], [45, 51, "AMOUNT"], [52, 62, "DATE"], [31, 44, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via RTGS to PRIME AUTO PARTS, reference TXN-2026-7786, amount INR 103,444, date 16/03/2026", "entities": [[20, 36, "ORG"], [74, 81, "AMOUNT"], [88, 98, "DATE"], [48, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via UPI to ABC INDUSTRIES LTD, reference NEFT-2025-7046, amount INR 166,601, date 26/02/2025", "entities": [[19, 37, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [49, 63, "REF"], [12, 15, "METHOD"]]}
+{"text": "UPI/YESB580718/SUNRISE ENTERPRISES/TXN-2024-6869/AMT 153,056/DATE 01/12/2024", "entities": [[15, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 3, "METHOD"]]}
+{"text": "14/04/2025 CHEQUE GLOBAL TECH SOLUTIONS NEFT-2025-6533 INR 57,602", "entities": [[18, 39, "ORG"], [59, 65, "AMOUNT"], [0, 10, "DATE"], [40, 54, "REF"], [11, 17, "METHOD"]]}
+{"text": "CHEQUE/HDFC204411/KUMAR ELECTRONICS/TXN-2024-8529/AMT 207,149/DATE 11/11/2024", "entities": [[18, 35, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [36, 49, "REF"], [0, 6, "METHOD"]]}
+{"text": "15/01/2025 NEFT TATA SERVICES REF-2025-5945 INR 116,180", "entities": [[16, 29, "ORG"], [48, 55, "AMOUNT"], [0, 10, "DATE"], [30, 43, "REF"], [11, 15, "METHOD"]]}
+{"text": "IMPS/SBIN796787/ABC INDUSTRIES LTD/TXN-2024-3711/AMT 172,096/DATE 12/05/2024", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI/AXIS787326/PRIME AUTO PARTS/INV-2024-2559/AMT 80,587/DATE 24/12/2024", "entities": [[15, 31, "ORG"], [50, 56, "AMOUNT"], [62, 72, "DATE"], [32, 45, "REF"], [0, 3, "METHOD"]]}
+{"text": "RTGS/KKBK813013/KUMAR ELECTRONICS/RTGS-2024-1152/AMT 20,931/DATE 05/10/2024", "entities": [[16, 33, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [34, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/AXIS174268/ABC INDUSTRIES LTD/REF-2024-7276/AMT 226,033/DATE 14/12/2024", "entities": [[16, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/AXIS911032/ABC INDUSTRIES LTD/REF-2024-3340/AMT 82,643/DATE 12/05/2024", "entities": [[16, 34, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "20/11/2024 CHEQUE NATIONAL DISTRIBUTORS TXN-2024-4490 INR 2,721", "entities": [[18, 39, "ORG"], [58, 63, "AMOUNT"], [0, 10, "DATE"], [40, 53, "REF"], [11, 17, "METHOD"]]}
+{"text": "UPI NATIONAL DISTRIBUTORS INV-2024-7291 180,479 15/04/2024", "entities": [[4, 25, "ORG"], [40, 47, "AMOUNT"], [48, 58, "DATE"], [26, 39, "REF"], [0, 3, "METHOD"]]}
+{"text": "UPI/YESB188341/SUNRISE ENTERPRISES/REF-2025-5668/AMT 207,876/DATE 05/04/2025", "entities": [[15, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 3, "METHOD"]]}
+{"text": "20/09/2024 IMPS RELIANCE RETAIL NEFT-2024-1894 INR 136,224", "entities": [[16, 31, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI GLOBAL TECH SOLUTIONS PO-2026-1197 30,055 08/08/2026", "entities": [[4, 25, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [26, 38, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via IMPS to TATA SERVICES, reference TXN-2025-3830, amount INR 101,907, date 28/10/2025", "entities": [[20, 33, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT SHARMA RAJ TRADING PVT LTD INV-2025-7520 154,473 03/01/2025", "entities": [[5, 31, "ORG"], [46, 53, "AMOUNT"], [54, 64, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE GLOBAL TECH SOLUTIONS PO-2024-3501 111,537 23/07/2024", "entities": [[7, 28, "ORG"], [42, 49, "AMOUNT"], [50, 60, "DATE"], [29, 41, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT MAHINDRA LOGISTICS RTGS-2024-2083 21,215 17/04/2024", "entities": [[5, 23, "ORG"], [39, 45, "AMOUNT"], [46, 56, "DATE"], [24, 38, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI/HDFC555589/ORBITAL SYSTEMS/INV-2024-8428/AMT 222,396/DATE 08/01/2024", "entities": [[15, 30, "ORG"], [49, 56, "AMOUNT"], [62, 72, "DATE"], [31, 44, "REF"], [0, 3, "METHOD"]]}
+{"text": "IMPS/HDFC113280/PRIME AUTO PARTS/TXN-2024-3248/AMT 194,930/DATE 22/12/2024", "entities": [[16, 32, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [33, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS KUMAR ELECTRONICS NEFT-2026-3079 91,386 17/09/2026", "entities": [[5, 22, "ORG"], [38, 44, "AMOUNT"], [45, 55, "DATE"], [23, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via NEFT to SHARMA RAJ TRADING PVT LTD, reference NEFT-2025-2262, amount INR 88,321, date 26/07/2025", "entities": [[20, 46, "ORG"], [85, 91, "AMOUNT"], [98, 108, "DATE"], [58, 72, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/ICIC485548/GREENFIELD SUPPLIERS/REF-2026-5179/AMT 94,904/DATE 02/08/2026", "entities": [[15, 35, "ORG"], [54, 60, "AMOUNT"], [66, 76, "DATE"], [36, 49, "REF"], [0, 3, "METHOD"]]}
+{"text": "04/04/2026 CHEQUE PRIME AUTO PARTS INV-2026-1201 INR 189,972", "entities": [[18, 34, "ORG"], [53, 60, "AMOUNT"], [0, 10, "DATE"], [35, 48, "REF"], [11, 17, "METHOD"]]}
+{"text": "13/03/2024 NEFT KUMAR ELECTRONICS PO-2024-7870 INR 95,914", "entities": [[16, 33, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [34, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "IMPS/BARB181670/RELIANCE RETAIL/PO-2025-7108/AMT 109,619/DATE 24/06/2025", "entities": [[16, 31, "ORG"], [49, 56, "AMOUNT"], [62, 72, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/BARB640828/PRIME AUTO PARTS/INV-2024-7568/AMT 236,938/DATE 02/03/2024", "entities": [[18, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "UPI MAHINDRA LOGISTICS RTGS-2025-1130 203,275 28/05/2025", "entities": [[4, 22, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [23, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via RTGS to MAHINDRA LOGISTICS, reference RTGS-2026-7033, amount INR 148,298, date 26/05/2026", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS ORBITAL SYSTEMS INV-2024-4817 236,545 18/04/2024", "entities": [[5, 20, "ORG"], [35, 42, "AMOUNT"], [43, 53, "DATE"], [21, 34, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/BARB873935/SUNRISE ENTERPRISES/TXN-2025-6038/AMT 883/DATE 25/11/2025", "entities": [[16, 35, "ORG"], [54, 57, "AMOUNT"], [63, 73, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS/ICIC846221/GREENFIELD SUPPLIERS/NEFT-2024-2524/AMT 62,934/DATE 14/08/2024", "entities": [[16, 36, "ORG"], [56, 62, "AMOUNT"], [68, 78, "DATE"], [37, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "23/06/2025 RTGS GREENFIELD SUPPLIERS PO-2025-2565 INR 108,780", "entities": [[16, 36, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [37, 49, "REF"], [11, 15, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD REF-2025-5778 155,661 19/01/2025", "entities": [[4, 22, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [23, 36, "REF"], [0, 3, "METHOD"]]}
+{"text": "IMPS/SBIN574751/GLOBAL TECH SOLUTIONS/NEFT-2025-4827/AMT 184,191/DATE 27/12/2025", "entities": [[16, 37, "ORG"], [57, 64, "AMOUNT"], [70, 80, "DATE"], [38, 52, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to TATA SERVICES, reference REF-2024-8365, amount INR 204,955, date 25/10/2024", "entities": [[20, 33, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS/AXIS423284/GLOBAL TECH SOLUTIONS/RTGS-2024-5341/AMT 32,150/DATE 18/06/2024", "entities": [[16, 37, "ORG"], [57, 63, "AMOUNT"], [69, 79, "DATE"], [38, 52, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT TATA SERVICES INV-2026-4522 212,206 22/05/2026", "entities": [[5, 18, "ORG"], [33, 40, "AMOUNT"], [41, 51, "DATE"], [19, 32, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS ABC INDUSTRIES LTD TXN-2025-5896 186,925 08/06/2025", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference REF-2026-2551, amount INR 106,508, date 28/08/2026", "entities": [[20, 46, "ORG"], [84, 91, "AMOUNT"], [98, 108, "DATE"], [58, 71, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT/ICIC307757/TATA SERVICES/RTGS-2024-7098/AMT 32,338/DATE 01/01/2024", "entities": [[16, 29, "ORG"], [49, 55, "AMOUNT"], [61, 71, "DATE"], [30, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "27/02/2024 CHEQUE NATIONAL DISTRIBUTORS TXN-2024-8265 INR 68,348", "entities": [[18, 39, "ORG"], [58, 64, "AMOUNT"], [0, 10, "DATE"], [40, 53, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via NEFT to SUNRISE ENTERPRISES, reference RTGS-2024-7471, amount INR 32,619, date 02/08/2024", "entities": [[20, 39, "ORG"], [78, 84, "AMOUNT"], [91, 101, "DATE"], [51, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to GLOBAL TECH SOLUTIONS, reference NEFT-2025-5585, amount INR 179,600, date 14/03/2025", "entities": [[20, 41, "ORG"], [80, 87, "AMOUNT"], [94, 104, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference RTGS-2024-7750, amount INR 161,484, date 20/10/2024", "entities": [[20, 46, "ORG"], [85, 92, "AMOUNT"], [99, 109, "DATE"], [58, 72, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT/ICIC773870/ABC INDUSTRIES LTD/PO-2025-5082/AMT 73,841/DATE 13/03/2025", "entities": [[16, 34, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [35, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to ORBITAL SYSTEMS, reference PO-2025-6269, amount INR 94,639, date 16/09/2025", "entities": [[19, 34, "ORG"], [71, 77, "AMOUNT"], [84, 94, "DATE"], [46, 58, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via IMPS to TATA SERVICES, reference NEFT-2024-1959, amount INR 7,332, date 11/10/2024", "entities": [[20, 33, "ORG"], [72, 77, "AMOUNT"], [84, 94, "DATE"], [45, 59, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE SUNRISE ENTERPRISES TXN-2024-4951 201,523 19/04/2024", "entities": [[7, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 6, "METHOD"]]}
+{"text": "25/04/2026 CHEQUE ORBITAL SYSTEMS RTGS-2026-6813 INR 15,156", "entities": [[18, 33, "ORG"], [53, 59, "AMOUNT"], [0, 10, "DATE"], [34, 48, "REF"], [11, 17, "METHOD"]]}
+{"text": "11/12/2026 RTGS RELIANCE RETAIL INV-2026-6761 INR 155,825", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "CHEQUE/SBIN284084/RELIANCE RETAIL/RTGS-2026-1621/AMT 219,835/DATE 26/08/2026", "entities": [[18, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "08/01/2026 NEFT RELIANCE RETAIL NEFT-2026-4300 INR 158,222", "entities": [[16, 31, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [32, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "IMPS/HDFC254887/ORBITAL SYSTEMS/PO-2024-3320/AMT 47,020/DATE 26/06/2024", "entities": [[16, 31, "ORG"], [49, 55, "AMOUNT"], [61, 71, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE SUNRISE ENTERPRISES INV-2026-6514 19,513 12/12/2026", "entities": [[7, 26, "ORG"], [41, 47, "AMOUNT"], [48, 58, "DATE"], [27, 40, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS TATA SERVICES NEFT-2026-3854 41,788 24/07/2026", "entities": [[5, 18, "ORG"], [34, 40, "AMOUNT"], [41, 51, "DATE"], [19, 33, "REF"], [0, 4, "METHOD"]]}
+{"text": "27/03/2025 RTGS PRIME AUTO PARTS TXN-2025-5825 INR 154,889", "entities": [[16, 32, "ORG"], [51, 58, "AMOUNT"], [0, 10, "DATE"], [33, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "23/10/2025 RTGS ORBITAL SYSTEMS PO-2025-1530 INR 971", "entities": [[16, 31, "ORG"], [49, 52, "AMOUNT"], [0, 10, "DATE"], [32, 44, "REF"], [11, 15, "METHOD"]]}
+{"text": "26/10/2024 CHEQUE SUNRISE ENTERPRISES INV-2024-9129 INR 241,944", "entities": [[18, 37, "ORG"], [56, 63, "AMOUNT"], [0, 10, "DATE"], [38, 51, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via IMPS to ORBITAL SYSTEMS, reference INV-2025-6500, amount INR 20,896, date 08/06/2025", "entities": [[20, 35, "ORG"], [73, 79, "AMOUNT"], [86, 96, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT/SBIN369125/MAHINDRA LOGISTICS/INV-2024-1020/AMT 55,467/DATE 08/12/2024", "entities": [[16, 34, "ORG"], [53, 59, "AMOUNT"], [65, 75, "DATE"], [35, 48, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to KUMAR ELECTRONICS, reference NEFT-2025-9946, amount INR 192,542, date 14/03/2025", "entities": [[19, 36, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [48, 62, "REF"], [12, 15, "METHOD"]]}
+{"text": "Payment via NEFT to KUMAR ELECTRONICS, reference REF-2026-3664, amount INR 207,260, date 28/10/2026", "entities": [[20, 37, "ORG"], [75, 82, "AMOUNT"], [89, 99, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to SHARMA RAJ TRADING PVT LTD, reference NEFT-2025-3787, amount INR 77,808, date 01/06/2025", "entities": [[20, 46, "ORG"], [85, 91, "AMOUNT"], [98, 108, "DATE"], [58, 72, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to ORBITAL SYSTEMS, reference RTGS-2025-1507, amount INR 20,161, date 18/02/2025", "entities": [[20, 35, "ORG"], [74, 80, "AMOUNT"], [87, 97, "DATE"], [47, 61, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to NATIONAL DISTRIBUTORS, reference REF-2024-4112, amount INR 233,743, date 14/03/2024", "entities": [[20, 41, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/YESB395198/ORBITAL SYSTEMS/NEFT-2025-4891/AMT 243,133/DATE 24/09/2025", "entities": [[18, 33, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [34, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "NEFT/HDFC478356/GLOBAL TECH SOLUTIONS/INV-2024-8005/AMT 150,386/DATE 18/08/2024", "entities": [[16, 37, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [38, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS PRIME AUTO PARTS REF-2024-3798 164,363 20/08/2024", "entities": [[5, 21, "ORG"], [36, 43, "AMOUNT"], [44, 54, "DATE"], [22, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/AXIS612855/KUMAR ELECTRONICS/TXN-2025-5341/AMT 221,689/DATE 04/05/2025", "entities": [[16, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via CHEQUE to GLOBAL TECH SOLUTIONS, reference INV-2025-5313, amount INR 48,965, date 12/07/2025", "entities": [[22, 43, "ORG"], [81, 87, "AMOUNT"], [94, 104, "DATE"], [55, 68, "REF"], [12, 18, "METHOD"]]}
+{"text": "UPI/HDFC258471/MAHINDRA LOGISTICS/TXN-2026-2584/AMT 59,808/DATE 27/05/2026", "entities": [[15, 33, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [34, 47, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via IMPS to GREENFIELD SUPPLIERS, reference RTGS-2024-9561, amount INR 109,024, date 25/10/2024", "entities": [[20, 40, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/AXIS413369/PRIME AUTO PARTS/INV-2024-7468/AMT 227,751/DATE 16/10/2024", "entities": [[18, 34, "ORG"], [53, 60, "AMOUNT"], [66, 76, "DATE"], [35, 48, "REF"], [0, 6, "METHOD"]]}
+{"text": "17/10/2026 CHEQUE NATIONAL DISTRIBUTORS INV-2026-8357 INR 236,548", "entities": [[18, 39, "ORG"], [58, 65, "AMOUNT"], [0, 10, "DATE"], [40, 53, "REF"], [11, 17, "METHOD"]]}
+{"text": "07/03/2024 RTGS RELIANCE RETAIL TXN-2024-8133 INR 212,433", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS NATIONAL DISTRIBUTORS PO-2024-7510 68,103 11/12/2024", "entities": [[5, 26, "ORG"], [40, 46, "AMOUNT"], [47, 57, "DATE"], [27, 39, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/KKBK716118/GREENFIELD SUPPLIERS/PO-2026-7874/AMT 120,603/DATE 28/01/2026", "entities": [[16, 36, "ORG"], [54, 61, "AMOUNT"], [67, 77, "DATE"], [37, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI TATA SERVICES INV-2026-2654 39,349 19/10/2026", "entities": [[4, 17, "ORG"], [32, 38, "AMOUNT"], [39, 49, "DATE"], [18, 31, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE/YESB609172/SUNRISE ENTERPRISES/PO-2025-8750/AMT 230,634/DATE 14/05/2025", "entities": [[18, 37, "ORG"], [55, 62, "AMOUNT"], [68, 78, "DATE"], [38, 50, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via RTGS to MAHINDRA LOGISTICS, reference RTGS-2026-1635, amount INR 106,137, date 05/10/2026", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS ORBITAL SYSTEMS INV-2025-6535 62,779 02/12/2025", "entities": [[5, 20, "ORG"], [35, 41, "AMOUNT"], [42, 52, "DATE"], [21, 34, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to MAHINDRA LOGISTICS, reference REF-2026-5923, amount INR 221,447, date 16/12/2026", "entities": [[20, 38, "ORG"], [76, 83, "AMOUNT"], [90, 100, "DATE"], [50, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to MAHINDRA LOGISTICS, reference RTGS-2026-4463, amount INR 191,550, date 14/10/2026", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via UPI to GREENFIELD SUPPLIERS, reference INV-2026-6097, amount INR 227,828, date 12/01/2026", "entities": [[19, 39, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [51, 64, "REF"], [12, 15, "METHOD"]]}
+{"text": "19/01/2024 RTGS GREENFIELD SUPPLIERS REF-2024-1944 INR 231,011", "entities": [[16, 36, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [37, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via NEFT to KUMAR ELECTRONICS, reference RTGS-2024-9275, amount INR 13,753, date 12/12/2024", "entities": [[20, 37, "ORG"], [76, 82, "AMOUNT"], [89, 99, "DATE"], [49, 63, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT PRIME AUTO PARTS REF-2025-8775 8,511 08/06/2025", "entities": [[5, 21, "ORG"], [36, 41, "AMOUNT"], [42, 52, "DATE"], [22, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/HDFC398916/TATA SERVICES/INV-2026-7333/AMT 220,085/DATE 09/12/2026", "entities": [[16, 29, "ORG"], [48, 55, "AMOUNT"], [61, 71, "DATE"], [30, 43, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via RTGS to NATIONAL DISTRIBUTORS, reference REF-2026-5408, amount INR 204,927, date 07/04/2026", "entities": [[20, 41, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/AXIS238741/SHARMA RAJ TRADING PVT LTD/TXN-2024-3837/AMT 227,157/DATE 25/11/2024", "entities": [[18, 44, "ORG"], [63, 70, "AMOUNT"], [76, 86, "DATE"], [45, 58, "REF"], [0, 6, "METHOD"]]}
+{"text": "Payment via RTGS to MAHINDRA LOGISTICS, reference NEFT-2026-7943, amount INR 159,973, date 26/05/2026", "entities": [[20, 38, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [50, 64, "REF"], [12, 16, "METHOD"]]}
+{"text": "IMPS/YESB645928/KUMAR ELECTRONICS/PO-2025-7506/AMT 66,559/DATE 07/08/2025", "entities": [[16, 33, "ORG"], [51, 57, "AMOUNT"], [63, 73, "DATE"], [34, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT GREENFIELD SUPPLIERS PO-2026-5631 174,132 27/06/2026", "entities": [[5, 25, "ORG"], [39, 46, "AMOUNT"], [47, 57, "DATE"], [26, 38, "REF"], [0, 4, "METHOD"]]}
+{"text": "11/05/2026 NEFT KUMAR ELECTRONICS NEFT-2026-5895 INR 17,234", "entities": [[16, 33, "ORG"], [53, 59, "AMOUNT"], [0, 10, "DATE"], [34, 48, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS/AXIS792616/GREENFIELD SUPPLIERS/NEFT-2026-3292/AMT 201,164/DATE 08/01/2026", "entities": [[16, 36, "ORG"], [56, 63, "AMOUNT"], [69, 79, "DATE"], [37, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI MAHINDRA LOGISTICS PO-2025-4111 68,507 14/07/2025", "entities": [[4, 22, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [23, 35, "REF"], [0, 3, "METHOD"]]}
+{"text": "21/08/2026 RTGS PRIME AUTO PARTS NEFT-2026-3785 INR 140,651", "entities": [[16, 32, "ORG"], [52, 59, "AMOUNT"], [0, 10, "DATE"], [33, 47, "REF"], [11, 15, "METHOD"]]}
+{"text": "IMPS ABC INDUSTRIES LTD PO-2025-3999 123,912 05/12/2025", "entities": [[5, 23, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [24, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT RELIANCE RETAIL NEFT-2025-7089 93,635 08/12/2025", "entities": [[5, 20, "ORG"], [36, 42, "AMOUNT"], [43, 53, "DATE"], [21, 35, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via CHEQUE to MAHINDRA LOGISTICS, reference PO-2025-2166, amount INR 122,072, date 28/02/2025", "entities": [[22, 40, "ORG"], [77, 84, "AMOUNT"], [91, 101, "DATE"], [52, 64, "REF"], [12, 18, "METHOD"]]}
+{"text": "28/11/2025 RTGS GREENFIELD SUPPLIERS RTGS-2025-1885 INR 31,909", "entities": [[16, 36, "ORG"], [56, 62, "AMOUNT"], [0, 10, "DATE"], [37, 51, "REF"], [11, 15, "METHOD"]]}
+{"text": "RTGS/ICIC431752/RELIANCE RETAIL/TXN-2025-3954/AMT 90,328/DATE 14/10/2025", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [62, 72, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "06/06/2026 UPI SUNRISE ENTERPRISES RTGS-2026-5481 INR 165,921", "entities": [[15, 34, "ORG"], [54, 61, "AMOUNT"], [0, 10, "DATE"], [35, 49, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via RTGS to NATIONAL DISTRIBUTORS, reference RTGS-2024-8035, amount INR 200,904, date 06/08/2024", "entities": [[20, 41, "ORG"], [80, 87, "AMOUNT"], [94, 104, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI KUMAR ELECTRONICS NEFT-2026-1230 100,984 01/01/2026", "entities": [[4, 21, "ORG"], [37, 44, "AMOUNT"], [45, 55, "DATE"], [22, 36, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE RELIANCE RETAIL REF-2026-6641 5,196 22/01/2026", "entities": [[7, 22, "ORG"], [37, 42, "AMOUNT"], [43, 53, "DATE"], [23, 36, "REF"], [0, 6, "METHOD"]]}
+{"text": "RTGS ABC INDUSTRIES LTD INV-2025-5885 101,045 17/10/2025", "entities": [[5, 23, "ORG"], [38, 45, "AMOUNT"], [46, 56, "DATE"], [24, 37, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via UPI to ORBITAL SYSTEMS, reference REF-2025-6615, amount INR 136,890, date 20/09/2025", "entities": [[19, 34, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [46, 59, "REF"], [12, 15, "METHOD"]]}
+{"text": "26/07/2024 IMPS RELIANCE RETAIL TXN-2024-3149 INR 43,723", "entities": [[16, 31, "ORG"], [50, 56, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT NATIONAL DISTRIBUTORS INV-2025-7147 132,786 06/02/2025", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "CHEQUE/HDFC785315/NATIONAL DISTRIBUTORS/INV-2026-1790/AMT 13,236/DATE 20/01/2026", "entities": [[18, 39, "ORG"], [58, 64, "AMOUNT"], [70, 80, "DATE"], [40, 53, "REF"], [0, 6, "METHOD"]]}
+{"text": "UPI/AXIS835962/KUMAR ELECTRONICS/REF-2025-4366/AMT 100,181/DATE 04/09/2025", "entities": [[15, 32, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [33, 46, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via IMPS to GLOBAL TECH SOLUTIONS, reference PO-2026-3247, amount INR 173,951, date 04/11/2026", "entities": [[20, 41, "ORG"], [78, 85, "AMOUNT"], [92, 102, "DATE"], [53, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "20/02/2025 NEFT GREENFIELD SUPPLIERS INV-2025-9154 INR 188,920", "entities": [[16, 36, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [37, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "09/09/2024 CHEQUE RELIANCE RETAIL RTGS-2024-5839 INR 204,437", "entities": [[18, 33, "ORG"], [53, 60, "AMOUNT"], [0, 10, "DATE"], [34, 48, "REF"], [11, 17, "METHOD"]]}
+{"text": "NEFT/SBIN345896/GREENFIELD SUPPLIERS/INV-2025-1208/AMT 130,616/DATE 07/12/2025", "entities": [[16, 36, "ORG"], [55, 62, "AMOUNT"], [68, 78, "DATE"], [37, 50, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT NATIONAL DISTRIBUTORS INV-2024-2659 175,880 16/03/2024", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "RTGS KUMAR ELECTRONICS REF-2024-1646 78,100 09/08/2024", "entities": [[5, 22, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [23, 36, "REF"], [0, 4, "METHOD"]]}
+{"text": "14/12/2024 IMPS PRIME AUTO PARTS INV-2024-1158 INR 82,474", "entities": [[16, 32, "ORG"], [51, 57, "AMOUNT"], [0, 10, "DATE"], [33, 46, "REF"], [11, 15, "METHOD"]]}
+{"text": "15/10/2025 RTGS SUNRISE ENTERPRISES NEFT-2025-6615 INR 94,223", "entities": [[16, 35, "ORG"], [55, 61, "AMOUNT"], [0, 10, "DATE"], [36, 50, "REF"], [11, 15, "METHOD"]]}
+{"text": "15/05/2025 NEFT GLOBAL TECH SOLUTIONS RTGS-2025-7909 INR 105,423", "entities": [[16, 37, "ORG"], [57, 64, "AMOUNT"], [0, 10, "DATE"], [38, 52, "REF"], [11, 15, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference PO-2024-8908, amount INR 182,996, date 24/01/2024", "entities": [[20, 33, "ORG"], [70, 77, "AMOUNT"], [84, 94, "DATE"], [45, 57, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to NATIONAL DISTRIBUTORS, reference TXN-2026-3140, amount INR 100,049, date 25/06/2026", "entities": [[20, 41, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/HDFC374320/ABC INDUSTRIES LTD/TXN-2024-6148/AMT 233,177/DATE 14/08/2024", "entities": [[15, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE/YESB454733/ORBITAL SYSTEMS/PO-2024-9570/AMT 151,665/DATE 24/10/2024", "entities": [[18, 33, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [34, 46, "REF"], [0, 6, "METHOD"]]}
+{"text": "08/08/2025 UPI PRIME AUTO PARTS TXN-2025-7305 INR 190,987", "entities": [[15, 31, "ORG"], [50, 57, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 14, "METHOD"]]}
+{"text": "01/11/2024 CHEQUE NATIONAL DISTRIBUTORS RTGS-2024-9123 INR 14,804", "entities": [[18, 39, "ORG"], [59, 65, "AMOUNT"], [0, 10, "DATE"], [40, 54, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via NEFT to KUMAR ELECTRONICS, reference REF-2025-7203, amount INR 84,552, date 08/06/2025", "entities": [[20, 37, "ORG"], [75, 81, "AMOUNT"], [88, 98, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "RTGS ABC INDUSTRIES LTD RTGS-2025-8324 120,848 15/10/2025", "entities": [[5, 23, "ORG"], [39, 46, "AMOUNT"], [47, 57, "DATE"], [24, 38, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT/AXIS532368/KUMAR ELECTRONICS/INV-2024-9996/AMT 195,859/DATE 21/01/2024", "entities": [[16, 33, "ORG"], [52, 59, "AMOUNT"], [65, 75, "DATE"], [34, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT NATIONAL DISTRIBUTORS TXN-2026-8474 162,784 21/05/2026", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS SHARMA RAJ TRADING PVT LTD PO-2025-8751 214,563 08/08/2025", "entities": [[5, 31, "ORG"], [45, 52, "AMOUNT"], [53, 63, "DATE"], [32, 44, "REF"], [0, 4, "METHOD"]]}
+{"text": "UPI ABC INDUSTRIES LTD NEFT-2024-5783 26,042 25/11/2024", "entities": [[4, 22, "ORG"], [38, 44, "AMOUNT"], [45, 55, "DATE"], [23, 37, "REF"], [0, 3, "METHOD"]]}
+{"text": "NEFT/BARB851678/SHARMA RAJ TRADING PVT LTD/TXN-2024-7704/AMT 235,610/DATE 06/08/2024", "entities": [[16, 42, "ORG"], [61, 68, "AMOUNT"], [74, 84, "DATE"], [43, 56, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS/ICIC579247/NATIONAL DISTRIBUTORS/REF-2025-6536/AMT 51,859/DATE 07/02/2025", "entities": [[16, 37, "ORG"], [56, 62, "AMOUNT"], [68, 78, "DATE"], [38, 51, "REF"], [0, 4, "METHOD"]]}
+{"text": "21/11/2026 UPI SHARMA RAJ TRADING PVT LTD RTGS-2026-8493 INR 243,409", "entities": [[15, 41, "ORG"], [61, 68, "AMOUNT"], [0, 10, "DATE"], [42, 56, "REF"], [11, 14, "METHOD"]]}
+{"text": "24/01/2026 UPI SHARMA RAJ TRADING PVT LTD PO-2026-8912 INR 139,531", "entities": [[15, 41, "ORG"], [59, 66, "AMOUNT"], [0, 10, "DATE"], [42, 54, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via CHEQUE to TATA SERVICES, reference PO-2024-6273, amount INR 191,994, date 27/03/2024", "entities": [[22, 35, "ORG"], [72, 79, "AMOUNT"], [86, 96, "DATE"], [47, 59, "REF"], [12, 18, "METHOD"]]}
+{"text": "23/04/2025 UPI NATIONAL DISTRIBUTORS NEFT-2025-8419 INR 240,600", "entities": [[15, 36, "ORG"], [56, 63, "AMOUNT"], [0, 10, "DATE"], [37, 51, "REF"], [11, 14, "METHOD"]]}
+{"text": "RTGS GLOBAL TECH SOLUTIONS TXN-2026-9975 158,448 23/12/2026", "entities": [[5, 26, "ORG"], [41, 48, "AMOUNT"], [49, 59, "DATE"], [27, 40, "REF"], [0, 4, "METHOD"]]}
+{"text": "07/04/2026 CHEQUE PRIME AUTO PARTS TXN-2026-6657 INR 57,475", "entities": [[18, 34, "ORG"], [53, 59, "AMOUNT"], [0, 10, "DATE"], [35, 48, "REF"], [11, 17, "METHOD"]]}
+{"text": "Payment via RTGS to GREENFIELD SUPPLIERS, reference NEFT-2025-8870, amount INR 142,710, date 23/11/2025", "entities": [[20, 40, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [52, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "28/07/2024 CHEQUE MAHINDRA LOGISTICS INV-2024-7240 INR 230,525", "entities": [[18, 36, "ORG"], [55, 62, "AMOUNT"], [0, 10, "DATE"], [37, 50, "REF"], [11, 17, "METHOD"]]}
+{"text": "NEFT/SBIN816586/PRIME AUTO PARTS/NEFT-2024-3399/AMT 15,338/DATE 07/05/2024", "entities": [[16, 32, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [33, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to RELIANCE RETAIL, reference INV-2025-4675, amount INR 198,050, date 18/01/2025", "entities": [[20, 35, "ORG"], [73, 80, "AMOUNT"], [87, 97, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to GREENFIELD SUPPLIERS, reference INV-2025-7251, amount INR 206,101, date 26/12/2025", "entities": [[20, 40, "ORG"], [78, 85, "AMOUNT"], [92, 102, "DATE"], [52, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "18/01/2024 UPI PRIME AUTO PARTS REF-2024-8259 INR 82,460", "entities": [[15, 31, "ORG"], [50, 56, "AMOUNT"], [0, 10, "DATE"], [32, 45, "REF"], [11, 14, "METHOD"]]}
+{"text": "Payment via IMPS to NATIONAL DISTRIBUTORS, reference REF-2024-5819, amount INR 143,791, date 24/10/2024", "entities": [[20, 41, "ORG"], [79, 86, "AMOUNT"], [93, 103, "DATE"], [53, 66, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to PRIME AUTO PARTS, reference RTGS-2026-1665, amount INR 20,021, date 06/03/2026", "entities": [[20, 36, "ORG"], [75, 81, "AMOUNT"], [88, 98, "DATE"], [48, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via IMPS to GREENFIELD SUPPLIERS, reference INV-2026-6415, amount INR 69,768, date 05/03/2026", "entities": [[20, 40, "ORG"], [78, 84, "AMOUNT"], [91, 101, "DATE"], [52, 65, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via RTGS to SHARMA RAJ TRADING PVT LTD, reference PO-2024-5934, amount INR 40,792, date 11/10/2024", "entities": [[20, 46, "ORG"], [83, 89, "AMOUNT"], [96, 106, "DATE"], [58, 70, "REF"], [12, 16, "METHOD"]]}
+{"text": "CHEQUE/KKBK330646/GREENFIELD SUPPLIERS/REF-2025-9529/AMT 94,369/DATE 03/12/2025", "entities": [[18, 38, "ORG"], [57, 63, "AMOUNT"], [69, 79, "DATE"], [39, 52, "REF"], [0, 6, "METHOD"]]}
+{"text": "CHEQUE TATA SERVICES REF-2025-4495 109,533 18/09/2025", "entities": [[7, 20, "ORG"], [35, 42, "AMOUNT"], [43, 53, "DATE"], [21, 34, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS/AXIS688602/SUNRISE ENTERPRISES/TXN-2026-1144/AMT 77,458/DATE 07/10/2026", "entities": [[16, 35, "ORG"], [54, 60, "AMOUNT"], [66, 76, "DATE"], [36, 49, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via IMPS to KUMAR ELECTRONICS, reference TXN-2026-6258, amount INR 63,505, date 21/10/2026", "entities": [[20, 37, "ORG"], [75, 81, "AMOUNT"], [88, 98, "DATE"], [49, 62, "REF"], [12, 16, "METHOD"]]}
+{"text": "Payment via NEFT to GLOBAL TECH SOLUTIONS, reference NEFT-2025-9426, amount INR 67,763, date 18/12/2025", "entities": [[20, 41, "ORG"], [80, 86, "AMOUNT"], [93, 103, "DATE"], [53, 67, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/KKBK186345/SHARMA RAJ TRADING PVT LTD/INV-2025-3742/AMT 78,208/DATE 21/04/2025", "entities": [[15, 41, "ORG"], [60, 66, "AMOUNT"], [72, 82, "DATE"], [42, 55, "REF"], [0, 3, "METHOD"]]}
+{"text": "Payment via NEFT to RELIANCE RETAIL, reference INV-2026-4368, amount INR 176,224, date 21/04/2026", "entities": [[20, 35, "ORG"], [73, 80, "AMOUNT"], [87, 97, "DATE"], [47, 60, "REF"], [12, 16, "METHOD"]]}
+{"text": "NEFT/YESB447828/ORBITAL SYSTEMS/INV-2025-2433/AMT 180,342/DATE 05/01/2025", "entities": [[16, 31, "ORG"], [50, 57, "AMOUNT"], [63, 73, "DATE"], [32, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "Payment via NEFT to TATA SERVICES, reference REF-2024-5237, amount INR 208,698, date 09/09/2024", "entities": [[20, 33, "ORG"], [71, 78, "AMOUNT"], [85, 95, "DATE"], [45, 58, "REF"], [12, 16, "METHOD"]]}
+{"text": "UPI/HDFC508422/KUMAR ELECTRONICS/TXN-2025-2938/AMT 165,707/DATE 13/07/2025", "entities": [[15, 32, "ORG"], [51, 58, "AMOUNT"], [64, 74, "DATE"], [33, 46, "REF"], [0, 3, "METHOD"]]}
+{"text": "CHEQUE/YESB989455/ABC INDUSTRIES LTD/INV-2024-6860/AMT 198,670/DATE 24/10/2024", "entities": [[18, 36, "ORG"], [55, 62, "AMOUNT"], [68, 78, "DATE"], [37, 50, "REF"], [0, 6, "METHOD"]]}
+{"text": "IMPS/BARB558936/PRIME AUTO PARTS/RTGS-2025-7473/AMT 79,497/DATE 20/02/2025", "entities": [[16, 32, "ORG"], [52, 58, "AMOUNT"], [64, 74, "DATE"], [33, 47, "REF"], [0, 4, "METHOD"]]}
+{"text": "08/03/2026 UPI TATA SERVICES PO-2026-5832 INR 140,345", "entities": [[15, 28, "ORG"], [46, 53, "AMOUNT"], [0, 10, "DATE"], [29, 41, "REF"], [11, 14, "METHOD"]]}
+{"text": "IMPS/SBIN111691/PRIME AUTO PARTS/PO-2026-3316/AMT 233,015/DATE 26/12/2026", "entities": [[16, 32, "ORG"], [50, 57, "AMOUNT"], [63, 73, "DATE"], [33, 45, "REF"], [0, 4, "METHOD"]]}
+{"text": "NEFT SHARMA RAJ TRADING PVT LTD NEFT-2026-4441 150,634 20/07/2026", "entities": [[5, 31, "ORG"], [47, 54, "AMOUNT"], [55, 65, "DATE"], [32, 46, "REF"], [0, 4, "METHOD"]]}
+{"text": "21/09/2024 RTGS GLOBAL TECH SOLUTIONS REF-2024-5140 INR 237,904", "entities": [[16, 37, "ORG"], [56, 63, "AMOUNT"], [0, 10, "DATE"], [38, 51, "REF"], [11, 15, "METHOD"]]}
+{"text": "NEFT/BARB887524/TATA SERVICES/PO-2024-8557/AMT 176,392/DATE 26/10/2024", "entities": [[16, 29, "ORG"], [47, 54, "AMOUNT"], [60, 70, "DATE"], [30, 42, "REF"], [0, 4, "METHOD"]]}
+{"text": "IMPS PRIME AUTO PARTS RTGS-2024-6420 18,158 09/02/2024", "entities": [[5, 21, "ORG"], [37, 43, "AMOUNT"], [44, 54, "DATE"], [22, 36, "REF"], [0, 4, "METHOD"]]}

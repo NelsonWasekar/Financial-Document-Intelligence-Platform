@@ -1,0 +1,73 @@
+{
+  "vendor_name": "Sharma Raj Trading",
+  "analyst_id": "analyst-001",
+  "date_range": [
+    "2026-01-01",
+    "2026-12-31"
+  ],
+  "vendor_transactions": [
+    {
+      "transaction_id": "TXN001",
+      "vendor_id": "V001",
+      "vendor_name": "SHARMA RAJ TRADING PVT LTD",
+      "amount": 25000.0,
+      "date": "2026-01-15",
+      "payment_method": "NEFT",
+      "approved_by": "manager",
+      "invoice_id": "INV-001"
+    },
+    {
+      "transaction_id": "TXN002",
+      "vendor_id": "V001",
+      "vendor_name": "SHARMA RAJ TRADING PVT LTD",
+      "amount": 75000.0,
+      "date": "2026-02-10",
+      "payment_method": "NEFT",
+      "approved_by": "manager",
+      "invoice_id": "INV-002"
+    },
+    {
+      "transaction_id": "TXN003",
+      "vendor_id": "V001",
+      "vendor_name": "SHARMA RAJ TRADING PVT LTD",
+      "amount": 150000.0,
+      "date": "2026-03-05",
+      "payment_method": "RTGS",
+      "approved_by": "manager",
+      "invoice_id": "INV-003"
+    }
+  ],
+  "matched_vendor_id": "V001",
+  "fuzzy_match_confidence": 1.0,
+  "applicable_policies": [],
+  "payment_limits": {
+    "manager_limit": 50000.0,
+    "director_limit": 100000.0,
+    "finance_head_limit": 500000.0
+  },
+  "approval_requirements": {
+    "up_to_50000": "manager",
+    "50000_to_100000": "director",
+    "above_100000": "finance_head"
+  },
+  "total_spend": 250000.0,
+  "transaction_count": 3,
+  "policy_violations": [
+    "PolicyViolation(transaction_id='TXN002', violation_type='APPROVAL_LIMIT_EXCEEDED', severity='medium', description='Transaction amount 75000.00 requires director approval, but was approved by manager.', applicable_policy='Expense Approval Matrix', policy_section='Payment Approval Limits')",
+    "PolicyViolation(transaction_id='TXN003', violation_type='APPROVAL_LIMIT_EXCEEDED', severity='high', description='Transaction amount 150000.00 requires finance_head approval, but was approved by manager.', applicable_policy='Expense Approval Matrix', policy_section='Payment Approval Limits')"
+  ],
+  "risk_level": "high",
+  "compliance_summary": "FINANCIAL COMPLIANCE ESCALATION\n\nVendor: Sharma Raj Trading\nRisk Level: HIGH\nTotal Spend: 250000.00\nTransaction Count: 3\n\nVIOLATIONS:\n- Transaction: TXN002\n  Type: APPROVAL_LIMIT_EXCEEDED\n  Severity: medium\n  Description: Transaction amount 75000.00 requires director approval, but was approved by manager.\n  Policy: Expense Approval Matrix\n  Section: Payment Approval Limits\n\n- Transaction: TXN003\n  Type: APPROVAL_LIMIT_EXCEEDED\n  Severity: high\n  Description: Transaction amount 150000.00 requires finance_head approval, but was approved by manager.\n  Policy: Expense Approval Matrix\n  Section: Payment Approval Limits\n\nRecommended action: Finance manager review required.\n\nRECOMMENDATIONS:\n- Suspend further payment approval until the violation is reviewed.\n- Verify supporting invoices and approvals.\n- Obtain approval from the required authority.\n- Record the compliance exception in the audit trail.\n\nPOLICY CITATIONS:\n",
+  "recommendations": [
+    "Suspend further payment approval until the violation is reviewed.",
+    "Verify supporting invoices and approvals.",
+    "Obtain approval from the required authority.",
+    "Record the compliance exception in the audit trail."
+  ],
+  "citations": [],
+  "requires_escalation": true,
+  "policy_context": "Approval limits: manager 50,000, director 100,000, finance head 500,000.\n\nApproval limits: manager 50,000, director 100,000, finance head 500,000.\n\nApproval limits: manager 50,000, director 100,000, finance head 500,000.",
+  "clarification_required": false,
+  "clarification_message": "",
+  "query_id": "a769f968-9e17-47cc-9b13-aeb46c5c46e2"
+}
